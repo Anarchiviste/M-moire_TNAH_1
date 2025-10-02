@@ -1,0 +1,49 @@
+\documentclass{report}
+\usepackage{polyglossia}
+\usepackage[backend=biber,
+style=verbose,
+sorting=ynt]{biblatex}
+\addbibresource{bib.bib}
+\setdefaultlanguage{french}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{verbatim}
+\usepackage[a4paper,
+inner=3cm,T
+outer=3cm,
+top=3cm,
+bottom=3cm,
+]{geometry}
+\usepackage{xcolor}
+\newcommand{\og}[0]{\guillemetleft}
+\newcommand{\fg}[0]{\guillemetright~}
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+
+\title{Piratage culturel et communautés patrimoniales\\\vspace{0.5cm}Master Archive - Technologies numériques appliquées à l'histoire\\École nationale des chartes}
+\author{Jules Musquin\\sous la direction d'Emmanuelle Bermès}
+
+\date{2024-2025\\ \vspace{1cm}\begin{quote}\textit{[...] Lent dans mon ombre, j'explore la pénombre profonde, d'une canne indécise, moi qui m'imaginais le Paradis sous l'espèce d'une bibliothèque.}\\\vspace{0.2cm}Jorge Luis Borges, \textit{Poème des dons}\end{quote}}
+\begin{document}
+
+\maketitle
+
+\include{1.0 Remerciement}
+
+\tableofcontents
+
+
+\include{1.1 Introduction V2}
+\include{2.De l'individu à la communauté patrimoniale}
+\include{3.ni dieu ni maître}
+\include{4 Bibliotheca mundi, Hic sunt dracones}
+\include{5. Conclusion}
+\include{archivographie}
+\include{bibliographie}
+\include{Annexes}
+\include{annexes_ubuweb}
+\end{document}

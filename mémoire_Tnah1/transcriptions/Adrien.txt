@@ -1,0 +1,1536 @@
+00:00:00 - 00:00:01:  C'est pas ma faute, c'est...
+00:00:01 - 00:00:02:  Je rigole.\
+00:00:05 - 00:00:06:  Bonjour, qui es-tu ?
+00:00:06 - 00:00:08:  Bonjour, je m'appelle #################.
+00:00:09 - 00:00:10:  J'ai besoin de plus d'informations.
+00:00:12 - 00:00:13:  ############## ?
+00:00:13 - 00:00:14:  Oui.
+00:00:16 - 00:00:16:  Qu'est-ce qu'il faut dire ?
+00:00:16 - 00:00:19:  J'essaie de faire une blague, mais je suis très peu professionnel.
+00:00:21 - 00:00:28:  Du coup, j'aimerais d'abord que tu te présentes un peu en détail sur toi,
+00:00:28 - 00:00:30:  y compris tes parents, un peu d'où tu viens,
+00:00:31 - 00:00:33:  et notamment ton rapport aux ordinateurs,
+00:00:34 - 00:00:36:  est-ce que c'est quelque chose de familial ou pas ?
+00:00:36 - 00:00:40:  Ok, alors, aujourd'hui je suis étudiant en humanité numérique,
+00:00:40 - 00:00:43:  avec une formation à la base de littérature.
+00:00:44 - 00:00:48:  Donc je suis formé d'abord en théorie littéraire, un truc comme ça,
+00:00:48 - 00:00:50:  avec une petite formation en mathématiques en classe préparatoire,
+00:00:50 - 00:00:53:  mais essentiellement en tant que littéraire.
+00:00:54 - 00:00:56:  Aujourd'hui l'informatique c'est une grosse partie de ma vie,
+00:00:56 - 00:00:57:  puisque c'est sur ça que je travaille.
+00:00:58 - 00:01:00:  Essentiellement aussi bien en tant qu'outil qu'en tant qu'objet d'étude,
+00:01:01 - 00:01:05:  à travers l'étude de littérature, de paralittérature numérique particulièrement,
+00:01:05 - 00:01:06:  donc ce qui se travaille sur Internet,
+00:01:07 - 00:01:09:  et comment on peut analyser ça grâce à l'outil computationnel.
+00:01:11 - 00:01:13:  L'informatique c'est pas non plus très récent,
+00:01:14 - 00:01:16:  et il me paraît de parler un petit peu de ma vie dans ces cas-là,
+00:01:17 - 00:01:19:  mais deux parents ont travaillé de près au loin avec de la technologie,
+00:01:20 - 00:01:23:  non pas en tant qu'informaticien, en tant que technicien,
+00:01:23 - 00:01:27:  mais en tant que gens qui ont été là au bon moment, au bon endroit,
+00:01:28 - 00:01:32:  j'ai encore les années d'attenté de ma mère sur les premiers modems 36K au bureau,
+00:01:32 - 00:01:33:  des trucs comme ça.
+00:01:33 - 00:01:37:  Mes parents ont travaillé dans le fond du commerce à l'avance,
+00:01:37 - 00:01:40:  et ma mère a travaillé particulièrement dans la télécommunication,
+00:01:40 - 00:01:44:  donc elle a été très tôt dans l'informatique,
+00:01:44 - 00:01:47:  très tôt vis-à-vis de l'arrivée de l'informatique dans le monde professionnel.
+00:01:47 - 00:01:50:  Donc en fait depuis tout petit, moi je vois des ordinateurs à la maison,
+00:01:50 - 00:01:51:  que ce soit chez mon père ou chez ma mère,
+00:01:51 - 00:01:53:  de part on s'en divorçait, donc je fais la différence à chaque fois.
+00:01:55 - 00:01:57:  Donc avec ma mère j'ai découvert l'informatique et la bureautique,
+00:01:57 - 00:02:00:  et avec mon père plus tard j'ai découvert le reste,
+00:02:00 - 00:02:02:  donc beaucoup de jeux vidéo,
+00:02:02 - 00:02:05:  et aussi la consommation de contenu,
+00:02:05 - 00:02:07:  illégal particulièrement.
+00:02:07 - 00:02:11:  C'est mon père qui m'a fait découvrir le monde merveilleux de la R4 à l'époque,
+00:02:11 - 00:02:15:  et surtout le site EmulIsland, je crois que ça s'appelait,
+00:02:15 - 00:02:17:  pour les jeux Wii, je me souviens encore.
+00:02:17 - 00:02:19:  Et donc ça c'est avec mon père que j'ai découvert ça.
+00:02:19 - 00:02:22:  Avec ma mère c'était plus, elle avait toujours un ordinateur à la maison,
+00:02:22 - 00:02:26:  un téléphone, donc j'ai découvert très tôt ce que c'était un PDA,
+00:02:26 - 00:02:29:  les premiers smartphones quand ils sont arrivés,
+00:02:29 - 00:02:32:  et voilà, j'ai accompagné ma mère avec son ordinateur portable,
+00:02:32 - 00:02:34:  donc c'était marrant, je savais bien ça.
+00:02:34 - 00:02:37:  Donc ça a commencé assez tôt, j'ai eu l'air relativement tôt,
+00:02:37 - 00:02:40:  accès à l'ordinateur pour jouer à Dofus, entre autres,
+00:02:40 - 00:02:42:  mais aussi pour m'amuser, pour découvrir ce que c'est,
+00:02:42 - 00:02:44:  donc pas à bidouiller non plus...
+00:02:44 - 00:02:46:  J'étais pas au stade de démonter les ordinateurs,
+00:02:46 - 00:02:48:  mais je l'aime bien, je trouvais ça marrant.
+00:02:48 - 00:02:49:  J'ai trouvé du plaisir là-dessus.
+00:02:49 - 00:02:50:  Ton père il fait quoi dans le jeu ?
+00:02:50 - 00:02:54:  Mon père il a été cadre en entreprise,
+00:02:54 - 00:02:56:  c'est un parcours un peu bizarre,
+00:02:56 - 00:02:58:  mais à la base mon père il est...
+00:02:58 - 00:03:03:  Quand j'étais petit, il était président directeur général de Honda Moto,
+00:03:03 - 00:03:05:  donc il travaillait...
+00:03:05 - 00:03:06:  C'était un beau métier.
+00:03:06 - 00:03:07:  Ouais, c'était un beau métier,
+00:03:07 - 00:03:09:  jusqu'à ce qu'il perde son procès au prud'homme.
+00:03:09 - 00:03:10:  Non.
+00:03:10 - 00:03:12:  C'était pour la blague, c'est pas une blague,
+00:03:12 - 00:03:15:  mais la suite ensuite elle était un petit peu plus chaotique.
+00:03:15 - 00:03:17:  Donc c'était pas du tout dans le...
+00:03:17 - 00:03:19:  Lui il était plus... c'était quelqu'un de curieux,
+00:03:19 - 00:03:23:  donc lui il apprit l'informatique plutôt du côté curiosité.
+00:03:24 - 00:03:26:  Et ce que ça pouvait apporter en tant qu'outil,
+00:03:26 - 00:03:30:  et le fait d'être à l'heure avec la technologie de son temps,
+00:03:30 - 00:03:32:  ce qui est toujours le cas aujourd'hui d'ailleurs.
+00:03:32 - 00:03:36:  Ma mère elle a travaillé vraiment sur les infrastructures réseaux,
+00:03:36 - 00:03:41:  elle a travaillé une grosse partie de sa carrière jusque là
+00:03:41 - 00:03:48:  sur le déploiement du cuivre puis de la fibre dans les universités et les lycées,
+00:03:48 - 00:03:52:  à l'échelle départementale et régionale en Nouvelle-Occitanie.
+00:03:52 - 00:03:55:  C'est un projet qui s'appelle Aster, puis THDoc,
+00:03:55 - 00:03:59:  qui était là en gros pour faire en sorte que les lycées aient de l'internet.
+00:03:59 - 00:04:06:  Et donc ouais, ça c'est pour à peu près mon enfance avec ça.
+00:04:06 - 00:04:09:  Très rapidement ensuite,
+00:04:09 - 00:04:12:  j'ai beaucoup joué aux jeux vidéo assez tôt,
+00:04:12 - 00:04:14:  sur Wii particulièrement,
+00:04:14 - 00:04:16:  c'est plutôt console de salon que ordinateur,
+00:04:16 - 00:04:20:  parce que je n'ai pas de raison particulière
+00:04:20 - 00:04:22:  entre le fait que c'est plus familial une console de salon,
+00:04:27 - 00:04:29:  Et là ouais, c'est à ce moment là que j'ai découvert la joie
+00:04:29 - 00:04:31:  de ne pas avoir à acheter des jeux,
+00:04:31 - 00:04:33:  et de pouvoir les avoir de façon détournée.
+00:04:33 - 00:04:35:  Donc ça a commencé à ce moment là,
+00:04:35 - 00:04:37:  le rapport à ce mode de consommation là.
+00:04:37 - 00:04:40:  En gros donc, sur le coup,
+00:04:40 - 00:04:44:  à 8-9 ans, j'avais une petite idée de ce que c'était.
+00:04:44 - 00:04:47:  Le fameux « vous ne voleriez pas une voiture ».
+00:04:47 - 00:04:49:  Ouais, ça c'est pour la blague.
+00:04:49 - 00:04:51:  Mais ouais, j'ai des souvenirs très divers,
+00:04:51 - 00:04:53:  des films que mon père téléchargeait,
+00:04:53 - 00:04:55:  parce qu'ensuite les films aussi,
+00:04:55 - 00:04:57:  avec ce truc là au début,
+00:04:57 - 00:05:00:  et que c'est resté je pense qu'une grande partie des DVD
+00:05:00 - 00:05:02:  que j'ai vus petits,
+00:05:02 - 00:05:05:  c'était pas des DVD d'origine, c'était des CD-ROM gravés,
+00:05:05 - 00:05:07:  de tout et de rien.
+00:05:07 - 00:05:10:  Voilà, donc ça c'est du côté de mes parents,
+00:05:10 - 00:05:12:  à peu près.
+00:05:12 - 00:05:16:  Voilà, donc si on continue un petit peu,
+00:05:16 - 00:05:18:  le premier téléphone que j'ai eu,
+00:05:18 - 00:05:20:  c'était un téléphone,
+00:05:20 - 00:05:22:  c'était un téléphone de chantier,
+00:05:22 - 00:05:24:  un vieux Samsung avec la lampe torche,
+00:05:24 - 00:05:25:  pour contacter mes parents,
+00:05:25 - 00:05:27:  donc c'était pas non plus la pointe de la technologie,
+00:05:27 - 00:05:29:  mais ensuite, sur le coup de la 6ème ou de la 5ème,
+00:05:29 - 00:05:31:  vu que ma mère récupérait dans le cas de son taf,
+00:05:31 - 00:05:33:  des téléphones des bras des opérateurs,
+00:05:33 - 00:05:35:  j'ai eu un téléphone,
+00:05:35 - 00:05:38:  enfin, je sais pas tu voies,
+00:05:38 - 00:05:40:  je crois que c'est QTC la marque,
+00:05:40 - 00:05:42:  un téléphone qui se, avec un petit clavier
+00:05:42 - 00:05:44:  Ouais, je vois exactement, de quoi tu veux-tu parler.
+00:05:44 - 00:05:46:  J'étais très content,
+00:05:46 - 00:05:48:  parce que je trouvais ça absolument génial, les Blackberry.
+00:05:48 - 00:05:49:  Tu as eu ça à quel âge ?
+00:05:49 - 00:05:51:  Tôt, parce que j'étais en 6ème, 5ème peut-être ?
+00:05:51 - 00:05:52:  12 ans ?
+00:05:52 - 00:05:54:  Non, non, non, non.
+00:05:54 - 00:05:55:  Plutôt, encore ?
+00:05:55 - 00:05:56:  Oui, beaucoup plus tôt,
+00:05:56 - 00:05:57:  beaucoup plus tôt de 12 ans, c'est la seconde.
+00:05:57 - 00:05:59:  Donc...
+00:05:59 - 00:06:00:  Euh...
+00:06:00 - 00:06:02:  T'as eu ça vers les 9 ans, peut-être ?
+00:06:02 - 00:06:04:  Oh non, plutôt 10.
+00:06:04 - 00:06:05:  Oui.
+00:06:05 - 00:06:06:  Ouais, 10-11.
+00:06:06 - 00:06:08:  Allez, 10-11, mettons.
+00:06:08 - 00:06:10:  Donc j'ai eu rapidement un téléphone,
+00:06:10 - 00:06:12:  donc j'ai été sensibilisé aussi à ça très tôt,
+00:06:12 - 00:06:15:  forcément, donc j'ai découvert la joie des...
+00:06:15 - 00:06:17:  Enfin, c'est à ce moment-là aussi où la...
+00:06:18 - 00:06:19:  La musique aussi, c'est...
+00:06:19 - 00:06:21:  Enfin, j'ai commencé à consommer de la musique aussi,
+00:06:21 - 00:06:24:  donc ça allait avec le classique YouTube MP3
+00:06:24 - 00:06:28:  pour télécharger les dernières musiques de Avicci,
+00:06:28 - 00:06:29:  et autre bêtise dans le genre,
+00:06:29 - 00:06:31:  et les partager dans un cours de récréation en Bluetooth
+00:06:31 - 00:06:34:  entre les différents téléphones pendant les pauses.
+00:06:34 - 00:06:35:  Ça, ça a été...
+00:06:35 - 00:06:36:  Ça mesure très bien le truc,
+00:06:36 - 00:06:38:  « Ah ouais, t'as ça, putain, tu peux me le filer et tout »,
+00:06:38 - 00:06:39:  et ouais, en fait, on se faisait des trucs,
+00:06:39 - 00:06:41:  on était 4 ou 5 avec nos téléphones,
+00:06:41 - 00:06:45:  à se passer les musiques en Bluetooth, vraiment.
+00:06:45 - 00:06:47:  Je sais pas, de base, mais c'est comme ça que...
+00:06:47 - 00:06:48:  C'est comme ça aussi que j'ai eu ça.
+00:06:48 - 00:06:51:  J'ai commencé à découvrir un peu de musique, d'ailleurs.
+00:06:51 - 00:06:53:  Et en fait, que je faisais pour les autres aussi,
+00:06:53 - 00:06:56:  un peu à petite échelle, mais c'était un truc...
+00:06:56 - 00:06:59:  Par exemple, les compiles de musiques pour les vacances,
+00:06:59 - 00:07:00:  c'est moi qui m'en occupais.
+00:07:00 - 00:07:02:  Voilà, on prenait une clé USB,
+00:07:02 - 00:07:04:  on prenait deux heures sur YouTube et on téléchargeait tout.
+00:07:04 - 00:07:08:  Et comme ça, on avait de quoi écouter la musique pendant les vacances.
+00:07:08 - 00:07:10:  Et donc là-dessus, voilà,
+00:07:10 - 00:07:13:  là, ça a commencé bien déjà, un peu, cette approche-là.
+00:07:13 - 00:07:15:  C'est le moment aussi où j'ai eu un ordinateur perso.
+00:07:15 - 00:07:17:  Enfin, un ordinateur, en fait, c'était pas mon ordinateur,
+00:07:17 - 00:07:18:  mais c'est l'ordinateur que j'ai eu,
+00:07:18 - 00:07:19:  que j'utilisais à la maison,
+00:07:19 - 00:07:21:  j'étais quasiment le seul à l'utiliser.
+00:07:21 - 00:07:23:  Où j'ai commencé à jouer un peu plus aussi.
+00:07:23 - 00:07:25:  Des jeux relativement courants,
+00:07:25 - 00:07:28:  mais c'était surtout Minecraft et League of Legends à l'époque.
+00:07:28 - 00:07:30:  Donc des jeux grand public, gratuits.
+00:07:30 - 00:07:33:  Et vu que j'avais pas non plus un budget illimité, forcément,
+00:07:33 - 00:07:36:  c'était la première fois où je téléchargeais gratuitement un jeu
+00:07:36 - 00:07:38:  et d'aller chercher un petit peu,
+00:07:38 - 00:07:40:  de voir s'il y avait pas des trucs,
+00:07:40 - 00:07:42:  comment craquer, insérer n'importe quel jeu,
+00:07:42 - 00:07:44:  et de commencer à avoir un petit peu...
+00:07:44 - 00:07:46:  En fait, la première version de Minecraft que j'ai eu,
+00:07:46 - 00:07:47:  d'ailleurs, était une version qui était pas la version gratuite,
+00:07:47 - 00:07:48:  en fait,
+00:07:48 - 00:07:49:  enfin, pas la version payante,
+00:07:49 - 00:07:50:  et je pense que...
+00:07:50 - 00:07:51:  Moi non plus.
+00:07:51 - 00:07:52:  Ouais, c'est un truc comme ça,
+00:07:52 - 00:07:55:  avec les serveurs PVP qui étaient déjà inclus dans le launcher.
+00:07:55 - 00:07:57:  Ça, ça a été...
+00:07:57 - 00:07:59:  De bidouiller comme ça,
+00:07:59 - 00:08:01:  ça a été la première approche où vraiment...
+00:08:01 - 00:08:03:  d'accéder à quelque chose de mon propre chef,
+00:08:03 - 00:08:05:  qui normalement était bloqué par un mur,
+00:08:05 - 00:08:07:  enfin, par un paywall.
+00:08:07 - 00:08:08:  Ça a été ça.
+00:08:08 - 00:08:10:  Les serveurs World of Warcraft aussi,
+00:08:10 - 00:08:12:  un peu moins quand même,
+00:08:12 - 00:08:14:  parce que j'étais un peu moins à l'aise là-dessus.
+00:08:14 - 00:08:17:  Mais ouais, ça a été Minecraft, en gros, la porte d'entrée.
+00:08:17 - 00:08:19:  C'était aussi pour moi l'occasion de découvrir un petit peu
+00:08:19 - 00:08:20:  comment se balader dans du...
+00:08:20 - 00:08:22:  Enfin, en fait, c'était quoi un fichier,
+00:08:22 - 00:08:23:  comment j'ai découvert...
+00:08:23 - 00:08:24:  Comment ça s'appelait ?
+00:08:24 - 00:08:25:  Hamashi ?
+00:08:25 - 00:08:26:  Oui !
+00:08:26 - 00:08:27:  Oh putain, oui.
+00:08:27 - 00:08:28:  Ces trucs-là.
+00:08:28 - 00:08:30:  Moi, j'ai découvert ça en bidouillant sur Minecraft, en fait.
+00:08:30 - 00:08:32:  Ah ouais, j'ai beaucoup utilisé Hamashi sur Minecraft.
+00:08:32 - 00:08:34:  Pour ouvrir les serveurs, les trucs comme ça.
+00:08:34 - 00:08:36:  J'avais même un pote, et on était au collège,
+00:08:36 - 00:08:37:  et c'était incroyable, parce que lui,
+00:08:37 - 00:08:39:  il savait vraiment ouvrir ses ports.
+00:08:39 - 00:08:40:  C'est génial, ça.
+00:08:40 - 00:08:42:  Et en fait, il faisait toute l'informatique de ses darons,
+00:08:42 - 00:08:43:  alors qu'il avait genre 11 ans.
+00:08:43 - 00:08:45:  Et du coup, on avait notre serveur Minecraft,
+00:08:45 - 00:08:47:  qui était le serveur d'Hugo van der Heerden,
+00:08:47 - 00:08:50:  qui savait faire un truc qui était vraiment pas simple à faire.
+00:08:50 - 00:08:51:  Ouais.
+00:08:51 - 00:08:53:  Mais ouais, je vois exactement de quoi tu veux parler.
+00:08:53 - 00:08:55:  Hamashi, ça a beaucoup...
+00:08:55 - 00:08:57:  J'ai beaucoup joué à Starbound avec Hamashi.
+00:08:57 - 00:08:58:  Ouais.
+00:08:58 - 00:08:59:  J'adore.
+00:08:59 - 00:09:00:  Des bons souvenirs.
+00:09:00 - 00:09:01:  Ouais, clairement.
+00:09:01 - 00:09:02:  Des bons souvenirs.
+00:09:02 - 00:09:04:  Et ensuite, après, collège ?
+00:09:04 - 00:09:05:  Collège...
+00:09:05 - 00:09:06:  Là, t'étais au collège.
+00:09:06 - 00:09:07:  Ouais, là, j'étais déjà au collège.
+00:09:07 - 00:09:09:  J'étais bien avancé au collège.
+00:09:11 - 00:09:12:  Ça a continué comme ça,
+00:09:12 - 00:09:13:  et puis j'ai découvert...
+00:09:13 - 00:09:16:  Encore autre chose, ça arrivait à la fin collège,
+00:09:16 - 00:09:18:  c'était la découverte du torrent.
+00:09:18 - 00:09:20:  Ah ouais, jeune, le torrent.
+00:09:20 - 00:09:21:  Ouais, ouais, ouais.
+00:09:21 - 00:09:23:  Ça, c'est grâce à mon père, particulièrement.
+00:09:23 - 00:09:26:  Parce qu'à l'époque, il n'y avait pas tout à fait les services de streaming de contenu
+00:09:26 - 00:09:27:  comme c'est le cas aujourd'hui.
+00:09:27 - 00:09:31:  Donc, pour avoir accès à du contenu,
+00:09:31 - 00:09:33:  à part la vidéo à la demande et des trucs comme ça,
+00:09:33 - 00:09:37:  l'option, c'était soit d'attendre la télé, soit d'aller au cinéma,
+00:09:37 - 00:09:39:  ou bien évidemment de le télécharger en ligne.
+00:09:39 - 00:09:41:  Et donc là, c'est à ce moment-là que j'ai découvert les trucs genre Pirate Bay,
+00:09:41 - 00:09:42:  c'est pas bien...
+00:09:42 - 00:09:45:  À l'époque, c'était T411 que j'ai beaucoup utilisé,
+00:09:45 - 00:09:47:  enfin que mon père a beaucoup utilisé,
+00:09:47 - 00:09:49:  et puis en fait, vu que je lui faisais des requêtes,
+00:09:49 - 00:09:51:  je lui disais tiens, est-ce que tu peux télécharger ça ?
+00:09:51 - 00:09:53:  En fait, à Noël, il m'a offert...
+00:09:53 - 00:09:55:  En fait, il m'a montré comment faire.
+00:09:55 - 00:09:57:  Donc il m'a offert un abonnement pour une seedbox,
+00:09:57 - 00:09:59:  qui est donc en fait un petit serveur,
+00:09:59 - 00:10:03:  un petit serveur que tu te connectes avec P2P, avec FileZilla,
+00:10:03 - 00:10:07:  sur lequel tu envoies les téléchargements en torrent,
+00:10:07 - 00:10:09:  donc sur un serveur étranger,
+00:10:09 - 00:10:11:  et tu les rapatries ensuite avec FileZilla, en l'occurrence.
+00:10:12 - 00:10:15:  C'était aussi le moment où j'ai découvert le mot-clé Adopi,
+00:10:15 - 00:10:18:  quand j'ai reçu une lettre d'Adopi, en fait, chez moi.
+00:10:18 - 00:10:20:  Tu fais partie des rares qui ont reçu une lettre ?
+00:10:20 - 00:10:21:  Ouais, j'ai reçu une lettre d'Adopi.
+00:10:21 - 00:10:22:  Est-ce que tu l'as encore ?
+00:10:22 - 00:10:23:  Non, je crois pas, mais alors...
+00:10:23 - 00:10:24:  Parce qu'en vrai, c'est collector.
+00:10:24 - 00:10:26:  Mais ouais, je me souviens, c'était un 31 octobre,
+00:10:26 - 00:10:28:  je crois la date même.
+00:10:28 - 00:10:30:  Alors la question c'était, est-ce que c'était moi,
+00:10:30 - 00:10:32:  ou est-ce que c'était le beau-père de l'époque ?
+00:10:32 - 00:10:35:  On sait pas, mais l'adresse IP a été flag,
+00:10:35 - 00:10:37:  on a reçu une lettre d'Adopi.
+00:10:37 - 00:10:40:  Et c'est à ce moment-là que mon père m'a payé l'abonnement à Seedbox,
+00:10:40 - 00:10:43:  comme ça je pouvais télécharger autant que je voulais à l'extérieur.
+00:10:43 - 00:10:46:  Et le principe des torrents étant quand même de télécharger pour rendre ensuite.
+00:10:46 - 00:10:48:  La Seedbox était constamment ouverte,
+00:10:48 - 00:10:51:  donc sur un serveur, que je pouvais seed constamment
+00:10:51 - 00:10:53:  les trucs que je téléchargeais pour pouvoir les envoyer aux autres.
+00:10:53 - 00:10:55:  C'était un peu le principe de la plateforme sur laquelle j'étais.
+00:10:55 - 00:10:58:  Et là, ça a téléchargé le contenu à balle.
+00:10:58 - 00:11:01:  Là, c'était beaucoup de jeux, beaucoup de séries, de films,
+00:11:01 - 00:11:05:  moins de musique, parce qu'on a eu Spotify, Deezer...
+00:11:05 - 00:11:06:  Ouais, c'était pas cher.
+00:11:06 - 00:11:07:  Non, ça allait.
+00:11:07 - 00:11:09:  C'était un truc, on avait un compte famille.
+00:11:09 - 00:11:11:  Moi, je sais que mes parents n'étaient vraiment pas...
+00:11:11 - 00:11:13:  avaient un peu peur de payer un abonnement.
+00:11:13 - 00:11:16:  Du coup, j'ai téléchargé en MP3 pendant très longtemps,
+00:11:16 - 00:11:18:  en fait, par rapport aux autres.
+00:11:18 - 00:11:22:  Mais je sais que dans les années fin collège, début lycée,
+00:11:22 - 00:11:25:  tout le monde utilisait déjà sur Spotify ou sur Deezer.
+00:11:25 - 00:11:28:  J'étais le seul con à des MP3, clairement.
+00:11:28 - 00:11:31:  C'est vrai que j'ai souvenir de télécharger...
+00:11:31 - 00:11:34:  En fait, la plateforme que j'utilisais,
+00:11:34 - 00:11:36:  qui n'existe plus aujourd'hui, elle a été remplacée par une autre.
+00:11:36 - 00:11:43:  En gros, comme principe, tu devais avoir un ratio d'envoi et téléchargement
+00:11:43 - 00:11:45:  qui était supérieur à 2.
+00:11:45 - 00:11:47:  Pour avoir la bonne bande passante.
+00:11:47 - 00:11:49:  En fait, pour avoir le droit de télécharger.
+00:11:49 - 00:11:52:  En gros, tu devais avoir envoyé deux fois plus de données
+00:11:52 - 00:11:55:  que ce que tu avais téléchargé pour pouvoir prétendre au téléchargement.
+00:11:55 - 00:11:58:  Pour que tous les torrents soient le plus ouverts possible
+00:11:58 - 00:12:01:  et laisser le plus possible la possibilité aux gens de télécharger.
+00:12:01 - 00:12:04:  Et ça, en fait, c'était permis par la seedbox, parce que j'avais pas à le gérer.
+00:12:04 - 00:12:05:  C'était pas mon adresse IP qui y était.
+00:12:05 - 00:12:10:  Et ce qui fait que là, par exemple, j'ai découvert le truc de télécharger des trucs
+00:12:10 - 00:12:12:  qui marchaient bien sur le moment.
+00:12:12 - 00:12:14:  Imaginons, c'était un nouveau film qui venait de sortir.
+00:12:14 - 00:12:17:  Tu le télécharges relativement vite, tu le mets sur ta seedbox, tu le laisses seed.
+00:12:17 - 00:12:19:  Comme ça, tu fais péter ton ratio.
+00:12:19 - 00:12:21:  Et je suis monté à des moments où je suis monté à plus de 100 de ratio.
+00:12:21 - 00:12:24:  Parce que c'est un truc qui était tellement demandé que tout le monde l'avait téléchargé.
+00:12:24 - 00:12:26:  Donc ça a piqué chez moi et c'était cool.
+00:12:26 - 00:12:29:  Et là, j'ai téléchargé la musique, parce que la musique partait plutôt bien à cette époque-là.
+00:12:29 - 00:12:32:  Et donc là, j'ai fait... Il y avait beaucoup de contenu, beaucoup de livres aussi.
+00:12:32 - 00:12:34:  Je commençais aussi à voir des livres comme ça.
+00:12:35 - 00:12:37:  J'ai eu une liseuse assez tôt.
+00:12:37 - 00:12:39:  Parce que mes parents sont des grands lecteurs.
+00:12:39 - 00:12:41:  Et que c'est un truc qui me plaisait.
+00:12:41 - 00:12:45:  C'est là que j'ai découvert mes premiers mangas en entier que j'ai lus en numérique.
+00:12:45 - 00:12:49:  Je me souviens, pour te dire, le premier que j'ai lu en entier, c'est Bleach.
+00:12:49 - 00:12:51:  Je me souviens, mais Bleach, c'est une cinquantaine de tomes, il me semble.
+00:12:51 - 00:12:55:  Donc j'avais tous les tomes de Bleach en format CDR.
+00:12:55 - 00:12:57:  Toi, tu te faisais chier.
+00:12:57 - 00:13:00:  Parce que moi, à l'époque, c'était sur Japscan.
+00:13:00 - 00:13:03:  Et en vrai, c'était hilarant parce que déjà, sur Japscan, entre deux chapitres,
+00:13:03 - 00:13:05:  il y avait toujours une pub pour un truc de Hentai.
+00:13:05 - 00:13:10:  Et en plus, tu avais vraiment les Watermark, les autres sites de téléchargement.
+00:13:10 - 00:13:13:  Et Japscan, prenait tout et s'en battait les couilles.
+00:13:13 - 00:13:15:  Mais en vrai, tu te faisais trop chier.
+00:13:15 - 00:13:16:  C'est juste qu'en fait, j'avais tout en...
+00:13:16 - 00:13:18:  J'avais pas d'abonnement 4G.
+00:13:18 - 00:13:20:  Donc en fait, je faisais tout ça.
+00:13:20 - 00:13:23:  Mon article était en local, donc j'avais tout sur ma liseuse.
+00:13:23 - 00:13:26:  Et ça permettait aussi pendant les trajets de lire, des trucs comme ça.
+00:13:26 - 00:13:27:  Donc ouais, ça a été les mangas.
+00:13:27 - 00:13:30:  Ensuite, pas trop BD plutôt, mais ensuite, tout ce qui est livres.
+00:13:30 - 00:13:32:  Et là, j'ai beaucoup de livres.
+00:13:32 - 00:13:34:  Mais en vrai, les livres, ça arrivera plus tard.
+00:13:34 - 00:13:35:  La consommation de livres à ce niveau-là.
+00:13:35 - 00:13:40:  Mais ouais, donc là, en gros, fin collège, début lycée, beaucoup de ça.
+00:13:40 - 00:13:43:  Films, séries, musiques, jeux.
+00:13:43 - 00:13:46:  Sur des plateformes comme ça, jusqu'au moment où les plateformes ont fermé.
+00:13:46 - 00:13:49:  Alors, il y avait toujours des moyens de contourner le problème.
+00:13:49 - 00:13:52:  Mais avec les campagnes au niveau des fonctions d'accès à Internet
+00:13:52 - 00:13:54:  pour bloquer les adresses IP de certains sites,
+00:13:54 - 00:13:55:  c'est pas bien.
+00:13:55 - 00:13:57:  Avec Pirate Day, on fermait très vite.
+00:13:57 - 00:14:00:  T411 avait réussi à se faufiler entre les mailles du filet
+00:14:00 - 00:14:03:  jusqu'à ce qu'ils se fassent avoir eux aussi.
+00:14:03 - 00:14:04:  Donc là, j'ai arrêté, en fait.
+00:14:04 - 00:14:05:  Parce que là.
+00:14:05 - 00:14:09:  Parce que d'une part, l'abonnement à la seedbox coûtait de l'argent.
+00:14:09 - 00:14:10:  D'une part.
+00:14:10 - 00:14:14:  Et que, en fait, je consommais plus assez de contenu
+00:14:14 - 00:14:17:  qui était difficilement accessible pour que ce soit rentable.
+00:14:17 - 00:14:20:  Ensuite, avec tout ce qui s'est développé ailleurs,
+00:14:20 - 00:14:22:  c'était plus facile d'accès.
+00:14:22 - 00:14:25:  Et le jeu en valait un peu moins la chandelle.
+00:14:25 - 00:14:29:  Alors bien évidemment, malgré ça, il y a toujours des sites
+00:14:29 - 00:14:31:  que j'ai continué à beaucoup utiliser, surtout pour les jeux.
+00:14:31 - 00:14:34:  Téléchargement de jeux.
+00:14:34 - 00:14:37:  Pour tout ce qui est petits jeux, les jeux indés, des trucs comme ça.
+00:14:37 - 00:14:39:  Mais aussi des gros jeux.
+00:14:39 - 00:14:41:  J'ai eu un ordinateur au moment où je me suis construit,
+00:14:41 - 00:14:43:  sur lequel j'ai pu faire tourner des trucs et m'amuser un peu.
+00:14:43 - 00:14:46:  Donc là, j'ai téléchargé des trucs beaucoup.
+00:14:46 - 00:14:49:  Et voilà.
+00:14:49 - 00:14:52:  Ça, c'était jusqu'au lycée, à peu près.
+00:14:52 - 00:14:56:  Et c'était un truc qu'on faisait entre potes aussi.
+00:14:56 - 00:14:57:  Parce que j'étais pas tout seul.
+00:14:57 - 00:15:00:  Parce que mon groupe de potes avec qui je jouais la plupart des temps,
+00:15:00 - 00:15:03:  parce que c'était quand même un des moyens de sociabilisation principal.
+00:15:03 - 00:15:05:  Les jeux vidéo.
+00:15:05 - 00:15:07:  Et la technologie plus généralement.
+00:15:07 - 00:15:10:  Ça a été, ouais, on se partageait des clés Windows.
+00:15:10 - 00:15:14:  On avait des jeux craqués sur nos disques durs qu'on se passait pendant qu'on faisait des LAN.
+00:15:14 - 00:15:17:  On se retrouvait avec nos PC, on se sentait à 5 sur une table avec un ventilateur,
+00:15:17 - 00:15:19:  pour ne pas crever.
+00:15:19 - 00:15:21:  Et puis on passait la nuit à jouer, on se passait des trucs.
+00:15:21 - 00:15:24:  Ça a joué aussi dans mon rapport à ça.
+00:15:24 - 00:15:26:  Mais voilà, ça c'était jusqu'au lycée en gros.
+00:15:26 - 00:15:28:  Une fois que le lycée était terminé,
+00:15:28 - 00:15:31:  le mode de vie change un peu, parce que je rentre en classe préparatoire.
+00:15:31 - 00:15:32:  Donc...
+00:15:32 - 00:15:39:  Il y avait pas tout à fait la même possibilité de divertissement.
+00:15:39 - 00:15:41:  Là, purement et simplement.
+00:15:41 - 00:15:43:  Donc...
+00:15:43 - 00:15:46:  Ce qui fait que là, en termes de consommation de contenu pure,
+00:15:46 - 00:15:48:  ça s'est un peu baissé.
+00:15:48 - 00:15:50:  Enfin, ça s'est clairement baissé, en fait.
+00:15:50 - 00:15:52:  Parce que je faisais pas grand chose d'autre que travailler.
+00:15:52 - 00:15:54:  Qu'est-ce que...
+00:15:54 - 00:15:56:  Donc là, j'avais toujours mon ordinateur.
+00:15:56 - 00:15:58:  Alors, c'est pas bien, je jouais pendant les cours.
+00:15:58 - 00:15:59:  Ok, d'accord.
+00:15:59 - 00:16:01:  Je jouais à Celeste pendant mes cours d'histoire.
+00:16:01 - 00:16:03:  Je faisais du speedrun pendant...
+00:16:03 - 00:16:04:  Pendant le cours sur la ...
+00:16:04 - 00:16:06:  Il y avait pas un petit problème de bruit ?
+00:16:06 - 00:16:08:  Parce que moi, des fois, je jouais à des jeux de rythme.
+00:16:08 - 00:16:10:  Et parce que j'étais en mode, bah...
+00:16:10 - 00:16:12:  J'en ai rien à foutre, c'est comme si je tapais.
+00:16:12 - 00:16:14:  Sauf qu'après, ça s'entendait que quelqu'un tapait.
+00:16:14 - 00:16:15:  Tu tabasses pas du tout.
+00:16:15 - 00:16:18:  Non mais même, je tapais pas vite, mais ça s'entendait que quelqu'un faisait genre...
+00:16:18 - 00:16:20:  Tatatatatata.
+00:16:20 - 00:16:22:  Et les gens qui me regardaient, j'étais en mode...
+00:16:22 - 00:16:24:  Je note en rythme.
+00:16:24 - 00:16:26:  Non, ça allait, vu que c'était des...
+00:16:26 - 00:16:27:  C'était pas du rythme.
+00:16:27 - 00:16:29:  Donc ça allait, et puis le prof n'en n'avait rien à foutre aussi.
+00:16:29 - 00:16:31:  Je pense que ça aide.
+00:16:31 - 00:16:33:  Donc ouais, je jouais à ça.
+00:16:33 - 00:16:35:  Il y a eu le confinement quand même.
+00:16:35 - 00:16:36:  Pendant la prépa.
+00:16:36 - 00:16:38:  Parce que je suis tombé en prépa confinement.
+00:16:38 - 00:16:40:  Et j'ai redécouvert des jeux.
+00:16:40 - 00:16:42:  Là, c'est un jeu que j'avais téléchargé avant.
+00:16:42 - 00:16:43:  C'était des trucs...
+00:16:43 - 00:16:44:  Là, c'était un gros jeu.
+00:16:44 - 00:16:45:  C'était un triple A.
+00:16:45 - 00:16:46:  Enfin, c'était...
+00:16:46 - 00:16:48:  C'était Sekiro, en l'occurrence.
+00:16:48 - 00:16:49:  Donc, de FromSoftware.
+00:16:49 - 00:16:50:  Là, je l'ai eu gratuitement.
+00:16:50 - 00:16:51:  Celui-là, je l'avais téléchargé.
+00:16:51 - 00:16:53:  C'est un site qui s'appelle Good Games.
+00:16:53 - 00:16:55:  Un site mais shady, un peu as-fuck.
+00:16:55 - 00:16:57:  Où tu télécharges le truc.
+00:16:57 - 00:16:59:  T'as le launcher en ISO qui se lance.
+00:16:59 - 00:17:01:  Avec le son à fond.
+00:17:01 - 00:17:04:  Avec une espèce d'édit d'animé bizarre.
+00:17:04 - 00:17:06:  Et tu sais pas comment ça fonctionne.
+00:17:06 - 00:17:07:  Tu sais pas d'où ça sort.
+00:17:07 - 00:17:08:  T'as ton jeu entier.
+00:17:08 - 00:17:10:  Tu vois ton CMD qui s'ouvre une seconde.
+00:17:10 - 00:17:11:  Qui se ferme.
+00:17:11 - 00:17:12:  Exactement, ouais.
+00:17:12 - 00:17:13:  C'est exactement ça.
+00:17:13 - 00:17:14:  Et j'ai l'image.
+00:17:14 - 00:17:16:  Et je me dis, qu'est-ce que je viens de faire avec mon ordinateur.
+00:17:16 - 00:17:17:  Ça n'est arrivé plus d'une fois.
+00:17:17 - 00:17:18:  Ouais, ça a été...
+00:17:18 - 00:17:19:  Mais une fois que c'est...
+00:17:19 - 00:17:21:  Bah, la première fois, c'est...
+00:17:21 - 00:17:22:  Pareil.
+00:17:22 - 00:17:23:  Et c'est...
+00:17:24 - 00:17:25:  Et donc, ouais, la prépa.
+00:17:25 - 00:17:26:  Ça s'est un peu calmé.
+00:17:26 - 00:17:29:  Jusqu'à ce que j'arrive, après la prépa,
+00:17:29 - 00:17:30:  merveilleux.
+00:17:30 - 00:17:31:  Donc je finis ma...
+00:17:31 - 00:17:33:  Je fais mes deux ans de classe préparatoire.
+00:17:35 - 00:17:37:  Il y a quand même du contenu que j'ai téléchargé.
+00:17:37 - 00:17:39:  Qui est surtout, en fait, un peu marginalement.
+00:17:39 - 00:17:40:  Parce que...
+00:17:40 - 00:17:42:  On avait la chance d'avoir une bibliothèque qui était bien fournie.
+00:17:42 - 00:17:44:  Donc on avait accès à des manuels.
+00:17:44 - 00:17:47:  Il y avait certains manuels qu'on pouvait pas avoir autrement qu'en téléchargeant.
+00:17:47 - 00:17:51:  Donc là, ça a été mon premier contact avec le téléchargement académique.
+00:17:51 - 00:17:53:  Donc articles de recherche.
+00:17:53 - 00:17:56:  Même si pas encore, parce que je savais tout à fait ce que c'était encore les articles de recherche, vraiment.
+00:17:56 - 00:17:59:  Mais tout ce qui va être manuels d'histoire, manuels de maths, des trucs comme ça.
+00:17:59 - 00:18:01:  Où c'est cool...
+00:18:01 - 00:18:04:  Enfin, j'avais la chance d'être dans une petite ville, donc j'avais un peu de budget quand même.
+00:18:04 - 00:18:07:  Mais je pouvais pas lâcher 50 balles dans un manuel.
+00:18:07 - 00:18:08:  Et t'avais trois manuels par matière.
+00:18:08 - 00:18:09:  Ce n'étais pas envisageable.
+00:18:09 - 00:18:12:  Donc là, j'ai commencé à trouver des trucs sur Internet. C'était bien.
+00:18:19 - 00:18:21:  C'est ensuite que ça allait, une fois que là, je...
+00:18:21 - 00:18:23:  Vraiment, après la classe préparatoire.
+00:18:23 - 00:18:25:  Où j'avais de nouveau plus de temps.
+00:18:25 - 00:18:27:  Donc, reconsommation de contenu.
+00:18:27 - 00:18:29:  Et aussi, je suis rentré dans le monde académique, en fait.
+00:18:29 - 00:18:32:  Donc, les premiers pas dans la recherche.
+00:18:32 - 00:18:35:  Et où j'ai découvert le fait que pour avoir un article il fallait payer 15 balles.
+00:18:35 - 00:18:37:  Très mauvaise découverte, n'est-ce pas ?
+00:18:37 - 00:18:39:  Quand JSTOR te fais toc toc.
+00:18:39 - 00:18:41:  C'est 25 balles, en fait.
+00:18:41 - 00:18:43:  Et le truc date des années 80.
+00:18:43 - 00:18:45:  Et en fait, ça me l'a fait pour...
+00:18:45 - 00:18:47:  Parce que je voulais lire quand même...
+00:18:47 - 00:18:49:  J'ai fait ma première demande dans les trois pour une demande de direction pour mon master.
+00:18:49 - 00:18:52:  Et donc, je voulais quand même lire ce qu'avait produit ma directrice de recherche.
+00:18:52 - 00:18:54:  Pour avoir une idée quand même des thèmes.
+00:18:54 - 00:18:56:  C'est la première et la seule fois où j'ai payé un article dans ma vie.
+00:18:56 - 00:18:59:  Parce qu'il n'était pas accessible autrement.
+00:18:59 - 00:19:02:  Maintenant, je lui aurais juste dû lui demander.
+00:19:02 - 00:19:04:  Parce qu'elle me l'aurait filé sans aucun problème.
+00:19:04 - 00:19:07:  Mais ouais, ça a été la première fois.
+00:19:07 - 00:19:12:  Et donc, à ce moment-là, j'ai commencé à apprendre l'existence de trucs sympas.
+00:19:12 - 00:19:14:  Dont j'avais déjà entendu parler.
+00:19:14 - 00:19:17:  C'était une vidéo d'un youtubeur qui, depuis, n'a pas tout à fait la côte.
+00:19:17 - 00:19:19:  Dirty Biology, en l'occurrence.
+00:19:19 - 00:19:21:  Qui avait fait une vidéo sur Sci-Hub.
+00:19:21 - 00:19:22:  Oui, ok.
+00:19:23 - 00:19:25:  Sur l'histoire de l'histoire de Sci-Hub.
+00:19:25 - 00:19:26:  Et sur la...
+00:19:26 - 00:19:29:  Enfin, je crois que la vidéo s'appelait la mafia scientifique.
+00:19:29 - 00:19:30:  Ou un truc comme ça.
+00:19:30 - 00:19:31:  Sur Elsevier, par exemple.
+00:19:31 - 00:19:32:  Qui a une politique un peu particulière.
+00:19:32 - 00:19:34:  En ce sens, c'est-à-dire,
+00:19:34 - 00:19:36:  Enfin, une politique carrément scandaleuse.
+00:19:36 - 00:19:37:  Mais bref.
+00:19:37 - 00:19:38:  Et je connaissais un peu avant.
+00:19:38 - 00:19:40:  Et en fait, j'en avais jamais eu l'utilité.
+00:19:40 - 00:19:41:  Jusqu'à ce que j'ai...
+00:19:41 - 00:19:42:  J'ai dit, putain, il y a cet article-là.
+00:19:42 - 00:19:44:  Je vais essayer de voir si ça fonctionne.
+00:19:44 - 00:19:45:  Et putain, ça fonctionne.
+00:19:45 - 00:19:46:  Et ça fonctionne.
+00:19:46 - 00:19:47:  Bien.
+00:19:47 - 00:19:48:  Moi, c'était surtout libgen, mais...
+00:19:48 - 00:19:49:  Ouais.
+00:19:49 - 00:19:50:  J'ai trouvé libgen plus tard.
+00:19:50 - 00:19:51:  Moi, c'est l'inverse.
+00:19:51 - 00:19:52:  C'est marrant.
+00:19:52 - 00:19:54:  Et c'est vraiment parce que moi, du coup, genre, bah, comme j'étais pas en prépa,
+00:19:54 - 00:19:55:  j'étais en licence.
+00:19:55 - 00:19:56:  Ouais.
+00:19:56 - 00:19:58:  J'ai très vite eu besoin de beaucoup de lectures, en fait.
+00:19:58 - 00:19:59:  Et oui.
+00:19:59 - 00:20:00:  Parce que du coup, on avait pas des gros cours.
+00:20:00 - 00:20:01:  On a pas eu des trucs aussi clés en main.
+00:20:01 - 00:20:02:  Et donc, du coup, c'était l'inverse.
+00:20:02 - 00:20:03:  Donc, moi, j'ai vraiment commencé à pirater dès la fin du lycée.
+00:20:03 - 00:20:04:  D'accord.
+00:20:04 - 00:20:05:  J'ai vraiment piraté de l'académique.
+00:20:05 - 00:20:06:  OK.
+00:20:06 - 00:20:07:  Pas pelleté, parce qu'il fallait...
+00:20:07 - 00:20:08:  Tu prépares un exposé sur un truc.
+00:20:08 - 00:20:09:  Et en fait, il fallait lire.
+00:20:09 - 00:20:10:  Oui, il fallait lire.
+00:20:10 - 00:20:11:  Il fallait la littérature derrière.
+00:20:11 - 00:20:12:  C'est...
+00:20:12 - 00:20:13:  En plus, j'étais à Clignancourt et la bibliothèque était pas si grande que ça.
+00:20:13 - 00:20:14:  Je me justifie.
+00:20:14 - 00:20:15:  Ah non, mais enfin...
+00:20:16 - 00:20:17:  Là, c'est...
+00:20:17 - 00:20:18:  OK, non, c'est trop...
+00:20:18 - 00:20:19:  C'est trop intéressant.
+00:20:19 - 00:20:20:  Je pourrais pas imaginer que tu dises autant de choses.
+00:20:20 - 00:20:21:  Ah.
+00:20:21 - 00:20:22:  C'est plutôt sympa.
+00:20:22 - 00:20:23:  OK.
+00:20:23 - 00:20:24:  Ça va, là.
+00:20:24 - 00:20:25:  Tu vois, genre, je savais pas que tes parents, ton daron qui t'offre une seedbox.
+00:20:25 - 00:20:26:  Ils disaient que tu parlais pas mal.
+00:20:26 - 00:20:27:  Ils disaient que tu parlais pas mal.
+00:20:27 - 00:20:28:  Ils disaient que tu parlais pas mal.
+00:20:28 - 00:20:29:  Ils disaient que tu parlais pas mal.
+00:20:38 - 00:20:40:  Je le vois.
+00:20:40 - 00:20:46:  Il y a justement des modèles et l'arrière-plan noble des mises en place.
+00:20:46 - 00:20:54:  Alors, après, j'étais encore twitter sur les titrages, après, j'ai commencé à faire
+00:20:54 - 00:21:00:  des sous-titres.
+00:21:00 - 00:21:03:  Ah bon ?
+00:21:03 - 00:21:05:  Ouais.
+00:21:05 - 00:21:08:  Voilà.
+00:21:08 - 00:21:08:  OK.
+00:21:08 - 00:21:09:  donc il y a de ça pour moi
+00:21:09 - 00:21:11:  et vous je joue pas beaucoup
+00:21:11 - 00:21:13:  j'achète assez peu de jeux
+00:21:13 - 00:21:16:  donc je tourne en fait sur les mêmes jeux
+00:21:16 - 00:21:18:  en boucle un petit peu
+00:21:18 - 00:21:20:  j'ai mes travers, je retourne sur les mauvais jeux aussi
+00:21:20 - 00:21:21:  c'est encore une autre histoire
+00:21:21 - 00:21:24:  mais pour ce qui est
+00:21:24 - 00:21:25:  du contenu
+00:21:25 - 00:21:28:  il y a quand même des trucs que je fais encore en streaming
+00:21:28 - 00:21:29:  particulièrement
+00:21:29 - 00:21:31:  les animés
+00:21:31 - 00:21:34:  tu les payes ou tu les...
+00:21:34 - 00:21:36:  le streaming ça veut tout et rien dire
+00:21:36 - 00:21:37:  tu pourrais être Netflix comme
+00:21:37 - 00:21:39:  là alors
+00:21:39 - 00:21:42:  ma mère a un abonnement Netflix qu'on partage
+00:21:42 - 00:21:43:  un abonnement Spotify
+00:21:43 - 00:21:46:  donc là dessus on le fait légalement
+00:21:46 - 00:21:47:  entre guillemets
+00:21:47 - 00:21:49:  mais pour tout ce qui va être lecture
+00:21:49 - 00:21:52:  pour certaines séries et trucs comme ça
+00:21:52 - 00:21:53:  je passe par ici de streaming
+00:21:53 - 00:21:55:  surtout les animés en fait
+00:21:55 - 00:21:57:  ils sortent plus vite en streaming
+00:21:57 - 00:21:58:  illégal
+00:21:58 - 00:22:00:  en simulcast les trucs comme ça
+00:22:00 - 00:22:03:  ils sont pompés sans aucune vergogne
+00:22:03 - 00:22:05:  de Crunchyroll directement au transmis sur notre serveur
+00:22:05 - 00:22:07:  c'est bien, ça va vite
+00:22:07 - 00:22:09:  et ensuite surtout en fait aujourd'hui
+00:22:09 - 00:22:11:  c'est quasiment quotidien
+00:22:11 - 00:22:13:  l'utilisation d'un truc genre Anna's Archive
+00:22:13 - 00:22:15:  SciHub ou LibGen
+00:22:15 - 00:22:16:  vous êtes libre
+00:22:16 - 00:22:19:  et tout ce qui va avec
+00:22:19 - 00:22:21:  c'est tout le temps en fait
+00:22:21 - 00:22:24:  j'ai la bibliothèque Zotero qui est remplie de
+00:22:24 - 00:22:26:  je pense que
+00:22:26 - 00:22:28:  je pense qu'il y a au moins la moitié des trucs
+00:22:28 - 00:22:30:  que j'ai sur Zotero en PDF
+00:22:30 - 00:22:32:  qui sont obtenus par
+00:22:32 - 00:22:33:  une plateforme comme ça
+00:22:37 - 00:22:39:  parce que
+00:22:39 - 00:22:42:  c'est juste pratique
+00:22:42 - 00:22:43:  c'est juste trop pratique
+00:22:43 - 00:22:44:  il y a une pratique
+00:22:44 - 00:22:46:  et il y a le fait aussi que
+00:22:46 - 00:22:48:  là d'un point de vue même purement pécuniaire
+00:22:48 - 00:22:49:  c'est intenable
+00:22:49 - 00:22:51:  il y a Vincent Jolivier qui vient de nous regarder
+00:22:51 - 00:22:52:  ça me fait peur
+00:22:52 - 00:22:54:  qui sont ces gens
+00:22:54 - 00:22:57:  ne serait-ce qu'une bibliographie d'articles de recherche
+00:22:57 - 00:22:58:  qui fait 14 pages
+00:22:58 - 00:23:00:  t'as au moins 60 références
+00:23:00 - 00:23:04:  je pense qu'on a un calcul simple à 3000 euros
+00:23:04 - 00:23:04:  je le passe
+00:23:04 - 00:23:07:  ça c'est un des
+00:23:07 - 00:23:07:  un des trucs qui me fait peur c'est que
+00:23:07 - 00:23:07:  c'est un des aspects
+00:23:07 - 00:23:08:  il y a aussi
+00:23:08 - 00:23:11:  comme tu l'évoquais un côté purement pratico-pratique
+00:23:11 - 00:23:13:  je cherche même plus à savoir si PDF est disponible ailleurs
+00:23:13 - 00:23:15:  je passe directement par
+00:23:15 - 00:23:16:  anna's archive parce que je sais que
+00:23:16 - 00:23:19:  vu qu'il synchronise toutes les bases de données dans tous les cas
+00:23:19 - 00:23:21:  je sais que s'il y est
+00:23:21 - 00:23:22:  il sera quelque part par là
+00:23:22 - 00:23:25:  il y a cet hygiène maintenant de recherche
+00:23:25 - 00:23:26:  presque en fait
+00:23:26 - 00:23:29:  c'est devenu un automatisme où un article, un livre
+00:23:29 - 00:23:31:  dont j'ai besoin, la première étape
+00:23:31 - 00:23:32:  c'est pas de le regarder sur la FNAC ou sur Gibert
+00:23:32 - 00:23:34:  même si encore un petit peu pour certains livres
+00:23:34 - 00:23:37:  surtout sur la littérature plus classique
+00:23:37 - 00:23:39:  je pense à de la théorie littéraire
+00:23:39 - 00:23:40:  un peu des années 70-70
+00:23:40 - 00:23:42:  où là c'est un peu particulier
+00:23:42 - 00:23:43:  là je vais d'abord chercher d'occasion
+00:23:43 - 00:23:45:  parce qu'en fait c'est les livres, c'est les éditions du point
+00:23:45 - 00:23:49:  qui sont disponibles à foison
+00:23:49 - 00:23:50:  pour des trucs un peu plus récents
+00:23:50 - 00:23:52:  que ce soit des manuels ou des articles de recherche
+00:23:52 - 00:23:55:  particulièrement en anglo-saxon parce qu'en France on n'y a pas encore accès encore
+00:23:55 - 00:23:55:  là c'est direct
+00:23:55 - 00:23:57:  c'est un tout droit vers
+00:23:57 - 00:23:59:  vers cette plateforme
+00:23:59 - 00:24:00:  je trouve aussi un truc en mode
+00:24:00 - 00:24:02:  moi je pirate mes articles de recherche
+00:24:02 - 00:24:05:  ça me permet de réserver déjà
+00:24:05 - 00:24:07:  il y a une praticité parce que
+00:24:07 - 00:24:09:  par exemple au début de l'année j'avais un peu essayé
+00:24:09 - 00:24:10:  d'utiliser la bibliothèque des chartes
+00:24:10 - 00:24:11:  qui est extrêmement bien fournie
+00:24:11 - 00:24:13:  par exemple il y avait un bouquin
+00:24:13 - 00:24:16:  où je pouvais
+00:24:16 - 00:24:18:  que le télécharger chapitre par chapitre
+00:24:18 - 00:24:20:  je pouvais l'avoir
+00:24:20 - 00:24:22:  il y a accès légalement par la bibliothèque des chartes
+00:24:22 - 00:24:23:  mais c'était que chapitre par chapitre
+00:24:23 - 00:24:26:  ou alors c'était des espèces de trucs avec des DRM
+00:24:26 - 00:24:28:  chelou, tu laisses la télécharger
+00:24:28 - 00:24:29:  mais c'est que pour un temps limité
+00:24:29 - 00:24:31:  et en fait je suis en mode bah oui je peux l'avoir légalement
+00:24:31 - 00:24:33:  mais c'est hyper chiant en fait
+00:24:33 - 00:24:34:  ça devrait pas être comme ça
+00:24:34 - 00:24:37:  donc du coup je suis en train de pirater
+00:24:37 - 00:24:39:  à fond comme dans mon précédent master
+00:24:39 - 00:24:42:  et aussi je trouve qu'il y a vraiment l'aspect de
+00:24:42 - 00:24:44:  je préfère pirater des trucs de recherche
+00:24:44 - 00:24:45:  parce que c'est du pro
+00:24:45 - 00:24:48:  et garder ma thune
+00:24:48 - 00:24:49:  moi j'ai un peu plus d'argent
+00:24:49 - 00:24:51:  que quand j'étais en licence
+00:24:51 - 00:24:53:  bah du coup je préfère dépenser ma thune pour des beaux livres
+00:24:53 - 00:24:54:  que j'aime bien
+00:24:54 - 00:24:57:  et j'aimerais savoir si toi c'est un peu aussi
+00:24:57 - 00:24:59:  effectivement il y a de ça
+00:24:59 - 00:25:00:  je lis beaucoup
+00:25:00 - 00:25:02:  parce que entre la forme
+00:25:02 - 00:25:05:  des formations littératures c'est un truc qui me
+00:25:05 - 00:25:06:  c'est quelque chose que j'aime bien
+00:25:07 - 00:25:09:  je ne sais pas trop trop la bibliothèque
+00:25:09 - 00:25:11:  tu veux qu'on compare nos bibliothèques ?
+00:25:11 - 00:25:12:  or on en parle pas
+00:25:12 - 00:25:14:  ma bibliothèque elle fait 22 cm
+00:25:14 - 00:25:15:  désolé
+00:25:15 - 00:25:17:  je vais couper ça
+00:25:17 - 00:25:19:  je vais couper ça
+00:25:19 - 00:25:24:  aujourd'hui quand j'ai des livres
+00:25:24 - 00:25:26:  donc quand je fais des déplacements
+00:25:26 - 00:25:28:  c'est soit pour ce que j'évoquais
+00:25:28 - 00:25:31:  là par exemple très récemment
+00:25:31 - 00:25:33:  c'était un livre
+00:25:33 - 00:25:36:  là c'était de la culture patrimoniale
+00:25:36 - 00:25:37:  donc c'était un livre qui était très court
+00:25:37 - 00:25:41:  c'était un livre de Cyrano Bergerac
+00:25:41 - 00:25:43:  de Camus
+00:25:43 - 00:25:45:  donc de la littérature qui est très classique
+00:25:45 - 00:25:48:  t'as acheté un objet physique
+00:25:48 - 00:25:50:  parce que ça te faisait plaisir
+00:25:50 - 00:25:54:  parce que je suis un grand défenseur de la lecture en ligne
+00:25:54 - 00:25:55:  et sur support numérique
+00:25:55 - 00:25:57:  je la pratique tous les jours
+00:25:57 - 00:25:59:  mais il y a certains éléments où je préfère la voir sur papier
+00:25:59 - 00:26:02:  parce que il y a cette sorte de rituel de lecture
+00:26:02 - 00:26:05:  pas indépassable mais en fait j'ai besoin d'avoir ce...
+00:26:05 - 00:26:06:  ouais ?
+00:26:06 - 00:26:09:  dans ma perception de la lecture j'aime bien
+00:26:09 - 00:26:10:  l'objet c'est aussi...
+00:26:10 - 00:26:13:  même si une liseuse ça agresse pas les yeux
+00:26:13 - 00:26:15:  dans son livre c'est cool d'avoir un livre
+00:26:15 - 00:26:16:  ouais c'est un peu ça
+00:26:16 - 00:26:19:  c'est agréable d'avoir une belle police
+00:26:19 - 00:26:22:  la liseuse des fois ça pas la même définition des images
+00:26:22 - 00:26:24:  enfin c'est... ouais je comprends parfaitement
+00:26:24 - 00:26:27:  et puis là le dernier livre que j'ai acheté
+00:26:27 - 00:26:28:  c'est un livre qui est sorti très récemment
+00:26:28 - 00:26:30:  en soit il était disponible en ligne
+00:26:30 - 00:26:31:  j'ai trouvé pas de problème
+00:26:31 - 00:26:32:  mais c'est un auteur que j'aime bien
+00:26:32 - 00:26:34:  donc j'ai acheté le livre
+00:26:34 - 00:26:35:  parce que c'est un auteur que j'aime bien
+00:26:35 - 00:26:36:  c'est une collection que j'aime bien
+00:26:36 - 00:26:37:  donc ça fait joli
+00:26:37 - 00:26:38:  et je sais que je le lirai
+00:26:38 - 00:26:40:  que je serai amené à le relire aussi
+00:26:40 - 00:26:43:  voilà donc ça je le fais
+00:26:43 - 00:26:44:  ça voilà je...
+00:26:44 - 00:26:48:  mes livres enfin ma consommation de contenu
+00:26:48 - 00:26:51:  enfin l'argent que je mets en terme de lecture
+00:26:51 - 00:26:54:  je le mets dans des livres fiction ou non fiction
+00:26:54 - 00:26:55:  mais côté plaisir
+00:26:55 - 00:26:56:  et pas du tout...
+00:26:56 - 00:26:57:  et quand en revanche
+00:26:57 - 00:26:58:  et ce que tu disais sur le côté
+00:26:58 - 00:27:00:  si je dois faire des recherches
+00:27:00 - 00:27:01:  là quand je suis en mode enfin
+00:27:01 - 00:27:02:  quand je suis en mode recherche entre guillemets
+00:27:02 - 00:27:04:  bah si je ne l'ai même pas je réfléchis
+00:27:04 - 00:27:05:  je l'ai en ligne comme ça en fait
+00:27:05 - 00:27:06:  je le sors sur Zotero directement
+00:27:06 - 00:27:07:  il est bien...
+00:27:07 - 00:27:08:  il est indexé dans ma base de données
+00:27:08 - 00:27:09:  je peux le retrouver
+00:27:09 - 00:27:10:  je mets mes notes dessus
+00:27:10 - 00:27:11:  et en fait c'est beaucoup plus pratique
+00:27:11 - 00:27:12:  que d'avoir à rechercher dans ma domaine
+00:27:12 - 00:27:13:  je peux télécharger le pdf
+00:27:13 - 00:27:14:  il n'y a pas de DRM chiant
+00:27:14 - 00:27:15:  je clique dessus sur Zotero
+00:27:15 - 00:27:16:  ça s'ouvre
+00:27:16 - 00:27:17:  j'ai mes notes
+00:27:17 - 00:27:18:  t'as...
+00:27:18 - 00:27:19:  je souligne dessus
+00:27:19 - 00:27:20:  et j'en ai un infosite dessus
+00:27:20 - 00:27:21:  je ne sais pas si tu as fait ça
+00:27:21 - 00:27:22:  sur Zotero j'ai découvert
+00:27:22 - 00:27:23:  en fait tu peux surligner
+00:27:23 - 00:27:24:  et annoter
+00:27:24 - 00:27:29:  et ensuite exporter les surlignements et les annotations
+00:27:29 - 00:27:30:  directement depuis Zotero
+00:27:30 - 00:27:31:  sur Obsidian
+00:27:31 - 00:27:32:  ah non
+00:27:32 - 00:27:33:  je l'utilise
+00:27:33 - 00:27:34:  je l'utilise
+00:27:34 - 00:27:35:  je l'utilise
+00:27:35 - 00:27:36:  je l'utilise
+00:27:36 - 00:27:37:  tu sais j'ai fait un petit spot
+00:27:37 - 00:27:38:  puis bien utilisé Zetler avant
+00:27:38 - 00:27:39:  oui
+00:27:39 - 00:27:40:  mais en fait
+00:27:40 - 00:27:41:  enfin ça c'est top
+00:27:41 - 00:27:42:  sinon j'ai...
+00:27:42 - 00:27:43:  enfin c'est plus anecdotique qu'autre chose
+00:27:43 - 00:27:44:  mais en gros tu...
+00:27:44 - 00:27:45:  en fait ce que je faisais
+00:27:45 - 00:27:46:  c'est que je lisais des articles
+00:27:46 - 00:27:47:  en fait je pouvais exporter toutes mes annotations
+00:27:47 - 00:27:48:  et mes surlignages
+00:27:48 - 00:27:49:  directement dans une fiche à part
+00:27:49 - 00:27:50:  depuis Zotero
+00:27:50 - 00:27:51:  et en fait c'était trop bon
+00:27:51 - 00:27:52:  tout était centralisé
+00:27:52 - 00:27:53:  je pouvais faire mes recherches
+00:27:53 - 00:27:54:  je pouvais croiser mes notes
+00:27:54 - 00:27:55:  etc
+00:27:55 - 00:27:56:  très pratique
+00:27:56 - 00:27:57:  et là-dessus c'est un truc
+00:27:57 - 00:27:58:  tu peux pas le faire avec un pdf
+00:27:58 - 00:27:59:  ou un...
+00:27:59 - 00:28:00:  un epub officiel entre guillemets
+00:28:00 - 00:28:01:  qui va passer par une appli dédiée
+00:28:01 - 00:28:04:  même si les applis comme calibre etc fonctionnent très bien
+00:28:04 - 00:28:05:  des trucs du genre Kobo, Kindle
+00:28:05 - 00:28:10:  ils ont une gestion des fichiers qui est...
+00:28:10 - 00:28:13:  Kindle utilise d'ailleurs que le truc d'Amazon
+00:28:13 - 00:28:14:  c'est inutilisable sans...
+00:28:14 - 00:28:15:  c'est absolument infernal
+00:28:15 - 00:28:18:  Kobo c'est un petit enfer
+00:28:18 - 00:28:21:  un jour j'ai acheté un ebook à la Fnac
+00:28:21 - 00:28:22:  en fait quand je me suis rendu compte
+00:28:22 - 00:28:24:  que je peux pas l'ouvrir sur le pc
+00:28:24 - 00:28:25:  bah je l'ai remboursé quoi
+00:28:25 - 00:28:26:  il fallait une Kobo
+00:28:26 - 00:28:27:  il a dit
+00:28:27 - 00:28:28:  nique sa mère
+00:28:28 - 00:28:29:  t'as autre chose à faire quoi
+00:28:29 - 00:28:30:  j'ai autre chose à foutre
+00:28:30 - 00:28:31:  que d'acheter une Kobo
+00:28:31 - 00:28:34:  et faire sauter un DRM sur un epub que t'achètes à la Fnac
+00:28:34 - 00:28:35:  c'est...
+00:28:35 - 00:28:36:  ça fonctionne
+00:28:36 - 00:28:37:  mais...
+00:28:37 - 00:28:38:  c'est fastidieux en fait
+00:28:38 - 00:28:39:  ouais mais...
+00:28:39 - 00:28:41:  je m'utiliserais pas ce book hein
+00:28:41 - 00:28:42:  c'est pas grave
+00:28:42 - 00:28:43:  c'est bon c'est bon
+00:28:43 - 00:28:45:  bon du coup aujourd'hui en fait ton piratage
+00:28:45 - 00:28:46:  il est essentiellement académique
+00:28:46 - 00:28:47:  il est quotidien
+00:28:47 - 00:28:50:  il y a aussi un aspect un peu plus culturel
+00:28:50 - 00:28:52:  avec des animés, des films
+00:28:52 - 00:28:53:  ouais y'a de ça effectivement
+00:28:53 - 00:28:57:  moi mon problème c'est que mon piratage de film et d'animés
+00:28:57 - 00:28:58:  enfin je regarde pas beaucoup d'animés
+00:28:58 - 00:29:00:  mais mon piratage de film est tellement pratique
+00:29:00 - 00:29:01:  ouais
+00:29:01 - 00:29:03:  genre c'est tellement un workflow seamless
+00:29:03 - 00:29:04:  que je n'ai même pas
+00:29:04 - 00:29:05:  je me dis
+00:29:05 - 00:29:06:  je pourrais acheter ça
+00:29:06 - 00:29:08:  genre le seul truc que j'achète
+00:29:08 - 00:29:10:  c'est soit par exemple je me suis acheté une édition collector
+00:29:10 - 00:29:12:  des films matrix trop stylés
+00:29:12 - 00:29:14:  et je suis en ordre d'occasion tu vois
+00:29:14 - 00:29:16:  soit c'est des DVD où je tombe dessus dans un truc
+00:29:16 - 00:29:18:  je suis genre ah ça m'intéresse c'est cool tu vois
+00:29:18 - 00:29:19:  mais genre là ça m'énerve
+00:29:19 - 00:29:20:  le truc fonctionne tellement bien
+00:29:20 - 00:29:21:  c'est juste
+00:29:21 - 00:29:22:  c'est comme un Netflix
+00:29:22 - 00:29:23:  mais c'est juste je stream des torrents
+00:29:23 - 00:29:25:  du coup je n'ai même pas à les téléchargés avant
+00:29:25 - 00:29:26:  y'a même pas de question de seed
+00:29:26 - 00:29:29:  c'est vraiment juste je stream des torrents de gros serveurs machin
+00:29:29 - 00:29:30:  que j'ai aucun problème quoi
+00:29:30 - 00:29:32:  et jamais je me dirais
+00:29:32 - 00:29:35:  ah peut-être j'ai payé un Netflix
+00:29:35 - 00:29:36:  peut-être j'ai payé un truc
+00:29:36 - 00:29:37:  c'est vraiment devenu là pour moi
+00:29:37 - 00:29:38:  un automatisme
+00:29:38 - 00:29:41:  sur du culturel vraiment personnel quoi
+00:29:41 - 00:29:42:  ouais
+00:29:42 - 00:29:45:  du coup tu pirates quotidiennement quoi
+00:29:45 - 00:29:46:  ouais je pense ouais
+00:29:46 - 00:29:47:  essentiellement de l'académie
+00:29:47 - 00:29:48:  essentiellement de l'académique
+00:29:48 - 00:29:50:  et quand j'ai besoin de
+00:29:50 - 00:29:52:  et ça m'est arrivé sur
+00:29:52 - 00:29:53:  en fait bon alors là c'est
+00:29:53 - 00:29:56:  là c'est la machine qui rentre en compte aussi
+00:29:56 - 00:29:58:  mais il se trouve que les jeux par exemple
+00:29:58 - 00:29:59:  pirater sur Mac
+00:29:59 - 00:30:00:  c'est pas ça
+00:30:00 - 00:30:02:  c'est beaucoup plus rare
+00:30:02 - 00:30:03:  oui
+00:30:03 - 00:30:04:  et donc en fait c'est
+00:30:04 - 00:30:05:  si j'avais un
+00:30:05 - 00:30:09:  ça a été le cas quand j'avais un ordinateur qui était sous Windows
+00:30:09 - 00:30:12:  là je téléchargeais beaucoup plus de jeux
+00:30:12 - 00:30:14:  parce que les trucs genre les
+00:30:14 - 00:30:17:  les repacks de Fit Girl en l'occurrence
+00:30:17 - 00:30:18:  ah oui la musique
+00:30:18 - 00:30:19:  j'entends la musique
+00:30:19 - 00:30:20:  et ouais avec Amélie Poulain là c'est
+00:30:20 - 00:30:21:  oui oui j'adore
+00:30:21 - 00:30:22:  ça ces trucs là
+00:30:22 - 00:30:25:  ça j'en ai énormément de cons
+00:30:25 - 00:30:27:  de petits jeux assez cons mais
+00:30:27 - 00:30:29:  Undertale des trucs comme ça
+00:30:29 - 00:30:30:  les Paper Please
+00:30:30 - 00:30:31:  tous ces petits jeux
+00:30:31 - 00:30:32:  les jeux Stickman Adventure
+00:30:32 - 00:30:33:  des trucs de conneries dans le genre
+00:30:33 - 00:30:35:  j'étais chargé sur des trucs comme ça
+00:30:35 - 00:30:36:  au début
+00:30:36 - 00:30:37:  mais parce que j'avais un
+00:30:37 - 00:30:39:  j'avais un ordinateur Windows qui pouvait faire tourner
+00:30:39 - 00:30:41:  et c'est dommage parce qu'aujourd'hui j'ai une machine qui est beaucoup plus puissante
+00:30:41 - 00:30:42:  qui pourrait faire tourner beaucoup plus de choses
+00:30:42 - 00:30:44:  mais c'est un Mac carrément que je peux pas
+00:30:44 - 00:30:45:  là je suis bloqué là-dessus
+00:30:45 - 00:30:47:  mais c'est là c'est plus anecdotique
+00:30:47 - 00:30:49:  mais parce que si jamais enfin
+00:30:49 - 00:30:52:  y'a plein de petits jeux en fait qu'elle aimerait jouer
+00:30:52 - 00:30:54:  que je ne fais pas parce que
+00:30:54 - 00:30:56:  aujourd'hui j'ai les moyens d'y jouer au jeu
+00:30:56 - 00:30:58:  je suis pas enfin j'ai repayé 15 euros le jeu
+00:30:58 - 00:31:00:  c'est pas c'est loin d'être
+00:31:00 - 00:31:01:  être hors de ma portée
+00:31:01 - 00:31:02:  mais en fait c'est que je le fais pas
+00:31:02 - 00:31:04:  je sais pas si c'est tant pas
+00:31:04 - 00:31:05:  commodité
+00:31:05 - 00:31:08:  en fait j'ai tellement pas l'habitude d'acheter un jeu
+00:31:08 - 00:31:11:  que je suis que je le que je saute pas le pas
+00:31:11 - 00:31:14:  ou euh ou voilà c'est euh
+00:31:14 - 00:31:16:  donc y'a de ça qui rentre en jeu aussi je pense
+00:31:16 - 00:31:18:  mais euh
+00:31:18 - 00:31:20:  voilà
+00:31:20 - 00:31:22:  après avoir comparé nos bibliothèques
+00:31:22 - 00:31:25:  nous pourrons comparer nos ludothèques Steam
+00:31:25 - 00:31:26:  oula
+00:31:26 - 00:31:27:  oula
+00:31:27 - 00:31:28:  oula
+00:31:28 - 00:31:30:  ah
+00:31:30 - 00:31:31:  j'ai une question
+00:31:31 - 00:31:32:  ouais
+00:31:32 - 00:31:33:  non c'est pas mal d'autres trucs
+00:31:33 - 00:31:35:  mais j'ai une question qui est intéressante
+00:31:35 - 00:31:37:  est-ce que t'as déjà piraté pour du coup d'autres gens
+00:31:37 - 00:31:39:  ou aider des proches à accéder du coup
+00:31:39 - 00:31:40:  ouais
+00:31:40 - 00:31:42:  pirater
+00:31:42 - 00:31:43:  bah comme mon père l'avait fait avec moi
+00:31:43 - 00:31:44:  j'ai fait pour les autres aussi ensuite
+00:31:44 - 00:31:45:  euh
+00:31:45 - 00:31:46:  les jeux
+00:31:46 - 00:31:47:  pour des potes
+00:31:47 - 00:31:49:  beaucoup
+00:31:49 - 00:31:49:  livres pour les potes
+00:31:49 - 00:31:50:  euh
+00:31:50 - 00:31:51:  trouver des euh
+00:31:51 - 00:31:54:  parce que c'est un truc que tout ne connait pas en fait
+00:31:54 - 00:31:55:  enfin
+00:31:55 - 00:31:56:  enfin en fait c'est aussi parce que dans
+00:31:56 - 00:31:57:  tout le monde connait pas en fait c'est aussi parce que dans
+00:31:57 - 00:32:00:  Tout le monde ne connaît pas tout ce qui est Sci-Hub, Anna's Archive, etc.
+00:32:00 - 00:32:02:  Je fais énormément de pubs pour ce genre de plateforme.
+00:32:03 - 00:32:06:  Donc au début, pour montrer aux gens comment ça fonctionnait,
+00:32:06 - 00:32:08:  je l'ai beaucoup fait de dire, tiens, tu cherches quoi ?
+00:32:08 - 00:32:09:  Regardons ce qu'il y a.
+00:32:10 - 00:32:14:  Et on met pas cinq minutes à trouver un truc que tu avais pris trois mois à chercher en bibliothèque,
+00:32:14 - 00:32:16:  tu l'as sur ton ordinateur, tu fais ce que tu veux avec.
+00:32:17 - 00:32:17:  Donc ça, je l'ai beaucoup fait.
+00:32:18 - 00:32:21:  Je l'ai fait surtout en...
+00:32:21 - 00:32:25:  En fait, en arrivant, surtout en master, M1 et les deux M1 que j'ai faits.
+00:32:25 - 00:32:26:  Là, ça s'est beaucoup fait.
+00:32:27 - 00:32:31:  J'évoquais la musique quand j'étais plus petit, mais en fait, tout ce qui va être...
+00:32:31 - 00:32:36:  Je t'ai chargé, quand j'avais ma seedbox, des films et des séries pour mes potes.
+00:32:36 - 00:32:37:  Je les ai pas payés.
+00:32:37 - 00:32:38:  J'aurais peut-être du mal.
+00:32:39 - 00:32:42:  Mais les épisodes des Simpsons, les trucs comme ça,
+00:32:43 - 00:32:48:  craquer des jeux sur PS3, je l'ai fait aussi pour des voisins du quartier.
+00:32:49 - 00:32:49:  Ça, je l'ai fait.
+00:32:53 - 00:32:55:  Et quoi d'autre ?
+00:32:55 - 00:32:56:  Pour les grands-parents, un peu moins.
+00:32:57 - 00:33:00:  Mais ouais, pour mon père, en fait, c'est marrant, parce que la boucle a été bouclée,
+00:33:00 - 00:33:02:  parce que normalement, c'est lui qui cherchait des ressources académiques.
+00:33:02 - 00:33:05:  Donc c'était à mon tour de lui renvoyer le contenu.
+00:33:06 - 00:33:07:  Ce qui fait qu'on s'est changé à des trucs.
+00:33:07 - 00:33:09:  Il m'a envoyé une série, j'ai envoyé un livre.
+00:33:09 - 00:33:10:  Comme ça, on était...
+00:33:10 - 00:33:12:  Je l'ai expliqué un petit peu, les trucs...
+00:33:12 - 00:33:15:  Parce que t'as les Sci-U, les trucs comme ça,
+00:33:15 - 00:33:17:  mais t'as aussi tous les trucs pour faire sauter les paywalls,
+00:33:17 - 00:33:19:  comme tous les feats, les trucs comme ça.
+00:33:21 - 00:33:22:  Utiliser...
+00:33:22 - 00:33:25:  Quand LibGen avait été down sur les...
+00:33:25 - 00:33:30:  Enfin, quand les fournisseurs d'accès à la date ont bloqué LibGen,
+00:33:30 - 00:33:32:  mais tu pouvais quand même accéder soit en billant ton DNS,
+00:33:32 - 00:33:35:  soit en passant par Tor.
+00:33:36 - 00:33:37:  Ou un VPN.
+00:33:37 - 00:33:39:  Moi, le truc, c'est que Tor et les VPN,
+00:33:39 - 00:33:41:  d'ailleurs, les VPN, la plupart sont payants,
+00:33:41 - 00:33:42:  et la plupart sont...
+00:33:42 - 00:33:43:  Ça sert à rien.
+00:33:43 - 00:33:45:  Et Tor, c'est ultra lent.
+00:33:45 - 00:33:48:  Et donc, du coup, moi, j'avais beaucoup dit aux gens,
+00:33:48 - 00:33:49:  mais arrêtez de payer un VPN.
+00:33:49 - 00:33:50:  J'utilise un DNS.
+00:33:50 - 00:33:54:  Moi, j'utilise toujours, je crois, le DNS de...
+00:33:54 - 00:33:55:  Il y a une association française,
+00:33:55 - 00:33:56:  de FAI amateurs,
+00:33:57 - 00:33:59:  où, genre, ils peuvent venir t'installer l'ADSL.
+00:33:59 - 00:34:00:  Ils font pas la file, mais ils font l'ADSL.
+00:34:01 - 00:34:02:  Et ils ont leur DNS, et leur DNS,
+00:34:02 - 00:34:05:  ils filtrent rien.
+00:34:06 - 00:34:07:  Et du coup, ouais,
+00:34:07 - 00:34:08:  j'avais beaucoup fait les pubs de...
+00:34:08 - 00:34:10:  Mais putain, t'es allé sur Tor, genre...
+00:34:10 - 00:34:11:  C'est pour rien, quoi.
+00:34:11 - 00:34:13:  J'utilise un DNS un peu mieux.
+00:34:15 - 00:34:15:  Mais ouais, je vois, je vois.
+00:34:16 - 00:34:17:  Mais ouais, OK, mais la boucle bouclée,
+00:34:17 - 00:34:18:  c'est trop mignon, en vrai.
+00:34:20 - 00:34:22:  Mais ça a été aussi...
+00:34:22 - 00:34:23:  Je crois que ça...
+00:34:23 - 00:34:25:  Il y a de ça qui participait aussi, mais vu que...
+00:34:25 - 00:34:27:  Je crois que c'est un peu ton cas aussi, mais...
+00:34:27 - 00:34:29:  Vu que...
+00:34:29 - 00:34:31:  Vu que je passe quand même la majorité de mon temps sur Internet,
+00:34:32 - 00:34:34:  les chercheurs et apprentis chercheurs
+00:34:34 - 00:34:36:  sur Internet sont les premières personnes
+00:34:36 - 00:34:38:  à conseiller d'utiliser
+00:34:38 - 00:34:40:  les plateformes
+00:34:41 - 00:34:42:  de type...
+00:34:42 - 00:34:43:  C'est ce qu'on évoque depuis tout à l'heure,
+00:34:43 - 00:34:44:  les plateformes académiques particulièrement.
+00:34:45 - 00:34:47:  Ce qui fait que t'as un environnement sur Internet
+00:34:47 - 00:34:49:  qui est extrêmement propice de partager des choses
+00:34:49 - 00:34:52:  qui sont de l'ordre du piratage
+00:34:52 - 00:34:54:  pur et dur, mais même de la part des chercheurs
+00:34:55 - 00:34:55:  eux-mêmes.
+00:34:55 - 00:34:56:  Et qui...
+00:34:56 - 00:34:58:  Je suis tombé sur les chercheurs qui...
+00:34:58 - 00:35:01:  Je ne citerai pas mon directeur de recherche
+00:35:01 - 00:35:03:  qui, quand je devais construire un corpus,
+00:35:03 - 00:35:04:  m'a tourné sur mon ordinateur et a fait
+00:35:04 - 00:35:07:  « Vous avez regardé là-dessus, peut-être que vous trouverez quelque chose ? »
+00:35:07 - 00:35:09:  C'était un des archives qui était affiché littéralement.
+00:35:11 - 00:35:12:  Et c'était...
+00:35:12 - 00:35:14:  Sauf qu'en fait, c'est rentré dans le...
+00:35:14 - 00:35:15:  Tout le monde presque...
+00:35:15 - 00:35:17:  Je me souviens d'articles un peu aguicheurs en disant
+00:35:17 - 00:35:20:  « Mais ce site n'a absolument pas à utiliser... »
+00:35:20 - 00:35:21:  J'avais exactement l'impression
+00:35:21 - 00:35:23:  sur Twitter d'avancer des tweets en mode
+00:35:23 - 00:35:25:  « Pour les étudiants, il nous faut
+00:35:25 - 00:35:27:  surtout pas aller sur libgen.gs,
+00:35:28 - 00:35:29:  surtout pas aller sur
+00:35:29 - 00:35:32:  zdlib.ru, jamais ! »
+00:35:32 - 00:35:33:  Et ça participait au truc.
+00:35:33 - 00:35:35:  Et forcément, vu que je travaillais aussi sur un sujet
+00:35:35 - 00:35:37:  qui était celui de l'Internet et des
+00:35:37 - 00:35:38:  communautés qui se créaient sur Internet,
+00:35:38 - 00:35:41:  du côté participation, collaboration
+00:35:41 - 00:35:43:  sur les plateformes en ligne, il y avait tout aussi
+00:35:43 - 00:35:45:  une hygiène du partage qui était
+00:35:45 - 00:35:46:  extrêmement ancrée et qui était
+00:35:46 - 00:35:49:  ultra-démocratisée. Donc ça a joué
+00:35:49 - 00:35:51:  énormément aussi avec le fait
+00:35:51 - 00:35:53:  de faire partager des choses, faire découvrir des choses,
+00:35:53 - 00:35:53:  de transmettre des éléments.
+00:35:55 - 00:35:56:  Et ça a été le fait de faire un média, etc.,
+00:35:56 - 00:35:58:  qui a beaucoup aidé à ce niveau-là aussi.
+00:35:58 - 00:36:01:  Il y a aussi, je trouve, en ce moment,
+00:36:01 - 00:36:03:  une démocratisation de Open Edition,
+00:36:03 - 00:36:05:  qui est vraiment cool. On y trouve pas tout,
+00:36:05 - 00:36:07:  mais on y trouve pas mal de choses de plus en plus.
+00:36:07 - 00:36:10:  Du coup, moi, j'ai une licence, c'était 2018.
+00:36:10 - 00:36:12:  2018, c'est pas si loin, mais en même temps,
+00:36:12 - 00:36:14:  ça commence à venir, quoi.
+00:36:14 - 00:36:16:  Il y avait moins de choses sur Open Edition.
+00:36:16 - 00:36:18:  Peut-être que je cherchais moins bien aussi.
+00:36:18 - 00:36:22:  Mais il y avait... Je pense qu'il y avait vraiment moins de choses.
+00:36:22 - 00:36:24:  Et aujourd'hui, ça c'est... Aujourd'hui, genre, il y a...
+00:36:24 - 00:36:25:  Je cherchais un livre de Daniel Fabre,
+00:36:25 - 00:36:27:  qui est très satisfaisant, et il l'est en entier,
+00:36:27 - 00:36:29:  sur Open Edition, en HTML.
+00:36:29 - 00:36:31:  Tu déroules, t'as tout le livre.
+00:36:31 - 00:36:33:  C'est incroyable, en fait.
+00:36:33 - 00:36:35:  Et c'est accessible légalement.
+00:36:35 - 00:36:37:  Donc ça a aussi évolué.
+00:36:37 - 00:36:39:  Et genre, il y a eu tout cet énorme discours,
+00:36:39 - 00:36:41:  en mode, mais c'est nous qui produisons la science,
+00:36:41 - 00:36:43:  pourquoi on doit racheter les articles
+00:36:43 - 00:36:45:  de nos collègues qui doivent racheter nos articles,
+00:36:45 - 00:36:47:  alors que s'ils me le demandaient, je leur filerais ?
+00:36:47 - 00:36:49:  Bien sûr.
+00:36:49 - 00:36:51:  Donc ouais, je comprends parfaitement, mais après,
+00:36:51 - 00:36:53:  ça boucle sur ce que j'ai pu dire avec
+00:36:53 - 00:36:55:  Bermès, c'est-à-dire les émotions.
+00:36:55 - 00:36:57:  Du coup, moi j'aimerais maintenant
+00:36:57 - 00:36:59:  qu'on revienne un peu sur tout ce qu'on a dit,
+00:36:59 - 00:37:01:  mais plus en termes juste d'émotions,
+00:37:01 - 00:37:03:  au lieu de qu'est-ce que tu faisais, c'est comment tu te sentais.
+00:37:03 - 00:37:05:  Par exemple, moi, quand j'étais jeune,
+00:37:05 - 00:37:07:  quand j'ai découvert, je pouvais streamer les torrents,
+00:37:07 - 00:37:09:  et pas avoir les seed et tout,
+00:37:09 - 00:37:11:  et j'étais comme un fou.
+00:37:11 - 00:37:13:  J'étais en train de me dire, mais c'est trop pratique.
+00:37:13 - 00:37:15:  C'est trop bien. Et genre, j'étais comme un fou,
+00:37:15 - 00:37:17:  et j'ai dû regarder 5 films d'affilée
+00:37:17 - 00:37:19:  pour rien, tu vois. Je faisais même
+00:37:19 - 00:37:21:  regarder ce que je voyais, juste en mode,
+00:37:21 - 00:37:23:  je le fais, tu vois. Voilà.
+00:37:23 - 00:37:25:  Donc...
+00:37:25 - 00:37:27:  En fait,
+00:37:27 - 00:37:29:  je pense qu'il y a eu une partie
+00:37:29 - 00:37:31:  de peur au début, quand c'est moi qui m'y suis mis à le faire.
+00:37:31 - 00:37:33:  Quand mon père le faisait,
+00:37:33 - 00:37:35:  je regardais derrière son écran,
+00:37:35 - 00:37:37:  et ça avait l'air trop bien et super facile.
+00:37:37 - 00:37:39:  Quand c'est moi qui ai dû aller sur des sites un peu shady,
+00:37:39 - 00:37:41:  avec les extensions, c'est pas que fr,
+00:37:41 - 00:37:43:  om.com, .org,
+00:37:43 - 00:37:45:  des trucs un peu bizarres, qui sont en fait
+00:37:45 - 00:37:47:  normal, mais sur le coup t'es pas habitué.
+00:37:47 - 00:37:49:  Comment ça, .xyz ?
+00:37:49 - 00:37:51:  C'est quoi cette merde, .me ? Mais attends, mais tu es une autre piste.
+00:37:51 - 00:37:53:  Qu'est-ce qui se passe ?
+00:37:53 - 00:37:55:  Je pense que la première étape, c'était un peu la peur.
+00:37:55 - 00:37:57:  Un peu l'excitation de ses découvertes.
+00:37:57 - 00:37:59:  Et qui a rapidement été remplacée par le fait
+00:37:59 - 00:38:01:  qu'en tant que très grisant,
+00:38:01 - 00:38:03:  être capable de faire autant de choses avec si peu,
+00:38:03 - 00:38:05:  et en fait,
+00:38:05 - 00:38:07:  de se rendre compte que t'as une sorte
+00:38:07 - 00:38:09:  de monde, enfin pas de monde caché,
+00:38:09 - 00:38:11:  ce serait un peu abusé, mais de découvrir au fur et à mesure
+00:38:11 - 00:38:13:  tout ce qui est possible de faire avec pas grand chose.
+00:38:13 - 00:38:15:  Et ça, j'y ai pris,
+00:38:15 - 00:38:17:  c'était un des trucs qui me faisait le plus plaisir.
+00:38:17 - 00:38:19:  Ensuite, ça a été le partage, à jouer aussi beaucoup dedans.
+00:38:19 - 00:38:21:  Parce que je veux dire, en fait,
+00:38:21 - 00:38:23:  il y avait forcément l'impression de prendre des risques,
+00:38:23 - 00:38:25:  avec Adobe qui me planait au-dessus de la tête, n'est-ce pas ?
+00:38:25 - 00:38:27:  T'avais ce côté de prendre des risques pour les autres,
+00:38:27 - 00:38:29:  et moi j'aimais bien ça aussi.
+00:38:29 - 00:38:31:  Après, ça s'est rapidement, le côté risque a été franchement atténué.
+00:38:31 - 00:38:33:  Mais moi je le faisais aussi parce que j'aimais bien partager,
+00:38:33 - 00:38:35:  donc je le partageais aux autres.
+00:38:35 - 00:38:37:  Ils me demandaient une série, pas de soucis, je trouve ça,
+00:38:37 - 00:38:39:  on fait ça, on se pose.
+00:38:39 - 00:38:41:  Et ensuite, pour ce qui est de l'émotion,
+00:38:41 - 00:38:43:  c'est un truc un peu bizarre
+00:38:43 - 00:38:45:  de monter des images disques.
+00:38:45 - 00:38:47:  T'as l'impression d'être
+00:38:47 - 00:38:49:  une sorte d'explorateur un peu...
+00:38:49 - 00:38:51:  Un peu un hacker.
+00:38:51 - 00:38:53:  Ouais, mais t'as vu, ouais,
+00:38:53 - 00:38:55:  j'ai toujours ce mème de Mr Robot.
+00:38:55 - 00:38:57:  Avec...
+00:38:57 - 00:38:59:  Exactement cette image-là.
+00:38:59 - 00:39:01:  Il y avait un peu ce style-là.
+00:39:01 - 00:39:03:  Alors que, en fait,
+00:39:03 - 00:39:05:  de mon point de vue,
+00:39:05 - 00:39:07:  pour moi, c'était le bout du monde.
+00:39:07 - 00:39:09:  Parce que j'avais pas de formation en informatique,
+00:39:09 - 00:39:11:  ou rien,
+00:39:11 - 00:39:13:  j'avais fait ça sur le tas,
+00:39:13 - 00:39:15:  c'était des survielles YouTube
+00:39:15 - 00:39:17:  d'un gars qui avait...
+00:39:17 - 00:39:19:  Avec un accent indien
+00:39:19 - 00:39:21:  extrêmement prononcé.
+00:39:21 - 00:39:23:  Exactement ça, avec la musique libre de droit.
+00:39:23 - 00:39:25:  Avec un Hello Friend.
+00:39:25 - 00:39:27:  Exactement.
+00:39:27 - 00:39:29:  Avec la synthèse vocale.
+00:39:29 - 00:39:31:  Welcome to my channel.
+00:39:31 - 00:39:33:  C'était exactement ça.
+00:39:33 - 00:39:35:  Et donc t'avais ça qui jouait.
+00:39:35 - 00:39:37:  Moi je me souviens,
+00:39:37 - 00:39:39:  parce qu'en plus je le faisais le soir,
+00:39:39 - 00:39:41:  c'était après les cours,
+00:39:41 - 00:39:43:  donc t'avais ce côté monde un peu parallèle
+00:39:43 - 00:39:45:  où tu rentrais dans une autre dimension
+00:39:45 - 00:39:47:  qui était pas accessible normalement.
+00:39:47 - 00:39:49:  C'est comme ça que j'ai appris à parler anglais aussi.
+00:39:49 - 00:39:51:  Mon premier contact, je pense,
+00:39:51 - 00:39:53:  avec la langue anglaise,
+00:39:53 - 00:39:55:  et la consommation de contenu lié aux jeux vidéo
+00:39:55 - 00:39:57:  pour accéder aux jeux vidéo.
+00:39:57 - 00:39:59:  C'est impossible de trouver un truc piraté
+00:39:59 - 00:40:01:  en français.
+00:40:03 - 00:40:05:  Sur les films, si tu pirates,
+00:40:05 - 00:40:07:  c'est forcément soit du
+00:40:07 - 00:40:09:  Vost, soit du VostFR,
+00:40:09 - 00:40:11:  mais du coup, forcément
+00:40:11 - 00:40:13:  tu deviens relativement fluent en anglais.
+00:40:13 - 00:40:15:  Moi je sais que je suis incapable de te citer
+00:40:15 - 00:40:17:  une règle de grammaire anglaise,
+00:40:17 - 00:40:19:  mais j'ai un niveau d'anglais qui me permet de parler
+00:40:19 - 00:40:21:  avec n'importe quel anglophone dans le monde,
+00:40:21 - 00:40:23:  sur des sujets relativement pointus,
+00:40:23 - 00:40:25:  sans trop me chier dessus.
+00:40:25 - 00:40:27:  Et c'est vrai qu'il y a vraiment un côté
+00:40:27 - 00:40:29:  de le fait que depuis 2016,
+00:40:29 - 00:40:31:  je regarde tous mes films en anglais
+00:40:31 - 00:40:33:  parce que je les pirate.
+00:40:33 - 00:40:35:  C'est vrai qu'il y a un côté
+00:40:35 - 00:40:37:  un peu en mode
+00:40:37 - 00:40:39:  je suis un petit hacker,
+00:40:39 - 00:40:41:  mais en plus je suis un bon étudiant.
+00:40:41 - 00:40:43:  Ça a été ça.
+00:40:43 - 00:40:45:  Pour la mémoire, j'ai ce souvenir très clair
+00:40:45 - 00:40:47:  de mon prof de prépa qui me dit
+00:40:47 - 00:40:49:  « Demande une question, tu réponds la bonne réponse
+00:40:49 - 00:40:51:  et il te dit pourquoi. »
+00:40:51 - 00:40:55:  Ma seule réponse c'est parce que ça sonne bien.
+00:40:55 - 00:40:57:  Parce que ça a été l'apprentissage sur le tas
+00:40:57 - 00:40:59:  et ça s'est fait en regardant des vidéos
+00:40:59 - 00:41:01:  sur Minecraft et autres bêtises
+00:41:01 - 00:41:03:  pour installer un texture pack.
+00:41:03 - 00:41:05:  Et ça, ça a participé beaucoup aussi.
+00:41:05 - 00:41:07:  Il y avait ce côté,
+00:41:07 - 00:41:09:  je parlais du côté un peu terrifiant,
+00:41:09 - 00:41:11:  c'était que tu rentrais dans un monde
+00:41:11 - 00:41:13:  où la compréhension d'anglais
+00:41:13 - 00:41:15:  était quand même un peu approximative au début.
+00:41:15 - 00:41:17:  Donc tu avais ce côté où tu progressais
+00:41:17 - 00:41:19:  dans des trucs qui étaient de temps en temps
+00:41:19 - 00:41:21:  même pas en français, même pas en anglais,
+00:41:21 - 00:41:23:  mais en russe en plus, parce que pourquoi pas.
+00:41:23 - 00:41:25:  Il y avait le rythme qui n'était pas tout le temps traduit
+00:41:25 - 00:41:27:  et tu ne savais pas où tu allais,
+00:41:27 - 00:41:29:  tu cliquais sur un lien mais tu ne savais pas sur quoi tu cliquais.
+00:41:29 - 00:41:31:  Moi j'avais un forum
+00:41:31 - 00:41:33:  qui est...
+00:41:33 - 00:41:35:  Je suis vraiment en train de crever,
+00:41:35 - 00:41:37:  j'avais un forum qui s'appelait cs.rin.ru
+00:41:37 - 00:41:39:  un forum de discussion sur CS
+00:41:39 - 00:41:41:  qui avait la particularité
+00:41:41 - 00:41:43:  d'être sous mot de passe.
+00:41:43 - 00:41:45:  Donc c'était très pratique,
+00:41:45 - 00:41:47:  on ne pouvait pas avoir la discussion,
+00:41:47 - 00:41:49:  le site ne pouvait pas être flag.
+00:41:49 - 00:41:51:  Si tu étais dedans, les gens pourraient venir
+00:41:51 - 00:41:53:  surtout pour des trucs piratés, mais c'était en russe.
+00:41:53 - 00:41:55:  Alors j'ai chopé tellement de jeux là-bas
+00:41:55 - 00:41:57:  et effectivement ce côté-là, en mode
+00:41:57 - 00:41:59:  je ne parle pas russe, ils ne le savent pas
+00:41:59 - 00:42:01:  mais je suis parmi eux...
+00:42:01 - 00:42:03:  Avec Google Trad à essayer de chopper
+00:42:03 - 00:42:05:  en mode est-ce que je vais
+00:42:05 - 00:42:07:  vraiment me faire enculer par un mec à l'autre bout
+00:42:07 - 00:42:09:  du monde ou est-ce que là je vais avoir
+00:42:09 - 00:42:11:  le card creator que je veux. Effectivement j'ai eu card creator
+00:42:11 - 00:42:13:  pendant des années, j'ai pu créer des jeux de cartes incroyables.
+00:42:15 - 00:42:17:  Mais du coup,
+00:42:17 - 00:42:19:  il y a quand même une évolution
+00:42:19 - 00:42:21:  des raisons pour lesquelles tu piratais.
+00:42:21 - 00:42:23:  C'est cool parce qu'il y a des gens qui
+00:42:23 - 00:42:25:  auraient pu rester sur aujourd'hui je pirate
+00:42:25 - 00:42:27:  comme avant essentiellement des jeux,
+00:42:27 - 00:42:29:  je ne sais pas, pour mon temps libre, machin...
+00:42:29 - 00:42:31:  Il y a vraiment une évolution du truc.
+00:42:31 - 00:42:33:  Est-ce que,
+00:42:33 - 00:42:35:  j'ai une question un peu technique,
+00:42:35 - 00:42:37:  est-ce que tu pirates
+00:42:37 - 00:42:39:  toujours que sur ordinateur ?
+00:42:39 - 00:42:41:  Par exemple, est-ce que tes amants ont une IPTV
+00:42:41 - 00:42:43:  qui est un autre truc de piratage un peu différent ?
+00:42:43 - 00:42:45:  Ou est-ce que tu passais par...
+00:42:45 - 00:42:47:  Oui, non, toi tu as dit que tu te rentrais beaucoup,
+00:42:47 - 00:42:49:  mais est-ce que par exemple des fois tu es passé par Reddit
+00:42:49 - 00:42:51:  ou par des discords, ou par des forums,
+00:42:51 - 00:42:53:  moi c'était plus par les forums
+00:42:53 - 00:42:55:  et les discords que par des torrents,
+00:42:55 - 00:42:57:  sauf pour les films.
+00:42:57 - 00:42:59:  Ça a été essentiellement par les torrents.
+00:42:59 - 00:43:01:  Plus marginalement des petits forums
+00:43:01 - 00:43:03:  ou ce que j'évoquais, des vidéos YouTube
+00:43:03 - 00:43:05:  où tu regardes la description et tu avais un lien
+00:43:05 - 00:43:07:  vers tes chargements directs.
+00:43:09 - 00:43:11:  Ça oui, beaucoup.
+00:43:11 - 00:43:13:  IPTV, pas encore.
+00:43:13 - 00:43:15:  Mon frère a un projet
+00:43:15 - 00:43:17:  l'année prochaine pour ça, enfin cette année plutôt.
+00:43:17 - 00:43:19:  Donc
+00:43:19 - 00:43:21:  il y a eu...
+00:43:21 - 00:43:23:  Non, je ne sais pas si on peut...
+00:43:25 - 00:43:27:  Non, pas vraiment.
+00:43:27 - 00:43:29:  Surtout moi essentiellement torrents,
+00:43:29 - 00:43:31:  plus marginalement forums, pas du tout discords.
+00:43:31 - 00:43:33:  C'est un truc
+00:43:33 - 00:43:35:  que ne savent pas du tout les communautés discords.
+00:43:35 - 00:43:37:  D'ailleurs je ne sais pas trop pourquoi.
+00:43:37 - 00:43:39:  Parce que moi je me suis mis sur discords.
+00:43:39 - 00:43:41:  Parce qu'à l'époque j'ai commencé sur les serveurs Teamspeak.
+00:43:41 - 00:43:43:  Même en France ?
+00:43:43 - 00:43:45:  Oui.
+00:43:45 - 00:43:47:  Moi je me souviens très bien,
+00:43:47 - 00:43:49:  j'avais un serveur à la base
+00:43:49 - 00:43:51:  de potes de potes qui jouait
+00:43:51 - 00:43:53:  à osu!
+00:43:53 - 00:43:55:  Et j'ai découvert ça.
+00:43:55 - 00:43:57:  C'était un serveur Teamspeak
+00:43:57 - 00:43:59:  qui ensuite...
+00:43:59 - 00:44:01:  Sauf que tous mes potes n'utilisaient pas Teamspeak
+00:44:01 - 00:44:03:  donc ensuite j'ai passé beaucoup de temps sur Skype forcément.
+00:44:03 - 00:44:05:  Donc là j'avais les groupes entre potes sur Skype
+00:44:05 - 00:44:07:  mais aussi les groupes de classes entre guillemets.
+00:44:07 - 00:44:09:  Et puis ensuite au bout d'un moment, juste discords est arrivé.
+00:44:09 - 00:44:11:  Je crois que c'est sur le coup 2016 à peu près où c'est bien...
+00:44:11 - 00:44:13:  Le but de discords ça a été ça a ruiné Skype, ça a ruiné Teamspeak.
+00:44:13 - 00:44:15:  Oui.
+00:44:15 - 00:44:17:  Pour les bonnes ou les mauvaises raisons, ça je ne sais pas.
+00:44:17 - 00:44:19:  Mais ça va dans le Discord.
+00:44:19 - 00:44:21:  J'ai découvert les potes Discord, les rôles Discord.
+00:44:21 - 00:44:23:  J'ai un souvenir très marrant
+00:44:23 - 00:44:25:  d'envoyer le lien d'une
+00:44:25 - 00:44:27:  conf Discord après une game de LOL
+00:44:27 - 00:44:29:  où on a passé notre game à s'insulter avec la team adverse.
+00:44:29 - 00:44:31:  Tu te retrouves à 10 sur un vocal
+00:44:31 - 00:44:33:  à te pourrir pendant 5 minutes.
+00:44:33 - 00:44:35:  Et c'est juste que les insultes n'ont plus aucun sens.
+00:44:35 - 00:44:37:  T'as juste 10 bonobos qui crient.
+00:44:37 - 00:44:39:  Et...
+00:44:39 - 00:44:41:  C'était ça Discord.
+00:44:41 - 00:44:43:  Et je sais qu'aujourd'hui il y en a beaucoup qui...
+00:44:43 - 00:44:45:  Discord c'est vraiment des communautés vraiment...
+00:44:45 - 00:44:47:  J'aime pas du tout ça.
+00:44:47 - 00:44:49:  Moi ça a toujours été...
+00:44:49 - 00:44:51:  J'ai un pote qui a beaucoup piraté.
+00:44:51 - 00:44:53:  Et qui a été...
+00:44:53 - 00:44:55:  Lui il a beaucoup grandi. Il a pas beaucoup joué aux jeux vidéo.
+00:44:55 - 00:44:57:  Il a joué mais pas énormément.
+00:44:57 - 00:44:59:  Et en fait il a beaucoup fait Facebook
+00:44:59 - 00:45:01:  puis Discord. Donc il a vraiment cette aspect communautaire à fond.
+00:45:01 - 00:45:03:  Moi c'est un peu entre les deux.
+00:45:03 - 00:45:05:  C'est entre toi et lui.
+00:45:05 - 00:45:07:  J'ai été sur Teamspeak, j'ai été sur Discord,
+00:45:07 - 00:45:09:  j'ai fait le switch.
+00:45:09 - 00:45:11:  J'ai été dans quand même des grosses commus.
+00:45:11 - 00:45:13:  Mais ça a jamais été toute ma vie en ligne.
+00:45:13 - 00:45:15:  Et toi c'est plus l'inverse.
+00:45:15 - 00:45:17:  C'est assez peu des commus.
+00:45:17 - 00:45:19:  Et c'est plus...
+00:45:19 - 00:45:21:  Je voulais explorer un peu ça.
+00:45:21 - 00:45:23:  J'ai une question qui a l'air un peu trop conne.
+00:45:23 - 00:45:25:  J'ai trop envie de la poser.
+00:45:25 - 00:45:27:  Avez-vous revendiqué une identité de pirate ou de hacker ?
+00:45:27 - 00:45:29:  Avez-vous revendiqué une identité de pirate ou de hacker ?
+00:45:29 - 00:45:31:  Pas vraiment à vrai dire.
+00:45:33 - 00:45:35:  Je pense que ma mère m'a collé un peu l'étiquette.
+00:45:35 - 00:45:37:  Mais plus pour rire qu'autre chose.
+00:45:37 - 00:45:39:  Mais je pense pas l'avoir revendiqué
+00:45:39 - 00:45:41:  en disant auprès de personne.
+00:45:41 - 00:45:43:  Parce qu'en fait
+00:45:43 - 00:45:45:  je me considérais pas comme tel.
+00:45:45 - 00:45:47:  J'avais vraiment l'idée...
+00:45:47 - 00:45:49:  Je récupère un truc sur l'étagère
+00:45:49 - 00:45:51:  je pars en courant plutôt.
+00:45:51 - 00:45:53:  Ah vraiment ? Tu te considérais comme un voleur ?
+00:45:53 - 00:45:55:  Au début ouais je pense.
+00:45:55 - 00:45:57:  J'avais pas du tout un aspect revendiqué
+00:45:57 - 00:45:59:  de si tu fais en mode...
+00:45:59 - 00:46:01:  Moi jeune c'était un peu en mode
+00:46:01 - 00:46:03:  unique à la société tu vois.
+00:46:03 - 00:46:05:  Ça a été beaucoup plus tardif ça.
+00:46:05 - 00:46:07:  C'était vraiment pas vraiment revendiqué.
+00:46:07 - 00:46:09:  C'était beaucoup plus tardif ça.
+00:46:09 - 00:46:11:  C'était vraiment pas vraiment revendiqué.
+00:46:11 - 00:46:13:  Enfin je le cachais pas non plus. C'était pas un mode...
+00:46:13 - 00:46:15:  Oulala je dirais pas non plus.
+00:46:15 - 00:46:17:  Au contraire si on me demandait
+00:46:17 - 00:46:19:  sur le problème et les gens
+00:46:19 - 00:46:21:  savaient que je bidouillais un petit peu
+00:46:21 - 00:46:23:  c'était des trucs un peu tout cons mais
+00:46:23 - 00:46:25:  ça rentrait un petit peu dans le même cadre.
+00:46:25 - 00:46:27:  Parce que tu savais utiliser un ordinateur
+00:46:27 - 00:46:29:  tu savais aussi utiliser ta calculatrice TI83
+00:46:29 - 00:46:31:  tu savais installer ton Snake
+00:46:31 - 00:46:33:  et ton Tetris dessus.
+00:46:33 - 00:46:35:  Et forcément on allait voir la même personne.
+00:46:35 - 00:46:37:  Il y avait un peu de ça.
+00:46:37 - 00:46:39:  Mais non le côté hacker
+00:46:39 - 00:46:41:  j'aimais vraiment.
+00:46:41 - 00:46:43:  Voilà.
+00:46:43 - 00:46:45:  Non.
+00:46:45 - 00:46:47:  Non c'est...
+00:46:47 - 00:46:49:  Ok super intéressant.
+00:46:49 - 00:46:51:  La TI83 pour le bac on a triché.
+00:46:51 - 00:46:53:  Oui mais grâce à...
+00:46:53 - 00:46:55:  On avait des algorithmes de fou furieux
+00:46:55 - 00:46:57:  qui nous faisaient l'exercice.
+00:46:57 - 00:46:59:  C'est à dire que c'était pas...
+00:46:59 - 00:47:01:  On nous donnait pas le résultat
+00:47:01 - 00:47:03:  c'était de nous écrire la phrase à écrire
+00:47:03 - 00:47:05:  pour que ce soit bien dans la logique de l'exercice.
+00:47:05 - 00:47:07:  J'ai eu 2,83 en maths au bac boulant
+00:47:07 - 00:47:09:  et je suis passé à genre 10 au bac.
+00:47:09 - 00:47:11:  Ce qui est
+00:47:11 - 00:47:13:  une augmentation de genre 500%.
+00:47:13 - 00:47:15:  C'est énorme.
+00:47:15 - 00:47:17:  J'étais très bon.
+00:47:17 - 00:47:19:  J'étais pas bon en maths mais j'étais bon en programmation.
+00:47:21 - 00:47:23:  Est-ce que tu stockes beaucoup
+00:47:23 - 00:47:25:  les médias que tu pirates par exemple ?
+00:47:25 - 00:47:27:  Moi je te parlais de streaming de torrent.
+00:47:27 - 00:47:29:  A la fin j'ai plus...
+00:47:29 - 00:47:31:  J'ai pas le fichier.
+00:47:31 - 00:47:33:  Il s'efface automatiquement.
+00:47:33 - 00:47:35:  Ça fait pour.
+00:47:35 - 00:47:37:  Est-ce que toi tu stockes beaucoup ?
+00:47:37 - 00:47:39:  Est-ce que par exemple
+00:47:39 - 00:47:41:  tu as une stratégie de stockage ?
+00:47:41 - 00:47:43:  Moi à un moment donné j'ai vraiment mon disque dur
+00:47:43 - 00:47:45:  classé avec mes musiques, mes machins.
+00:47:45 - 00:47:47:  J'ai envie que tu me parles de ça.
+00:47:47 - 00:47:49:  Oui, je stocke.
+00:47:49 - 00:47:51:  Je pense que j'ai encore quasiment tout ce que j'ai téléchargé.
+00:47:51 - 00:47:53:  Pas tout non plus.
+00:47:53 - 00:47:55:  Mais
+00:47:55 - 00:47:57:  on m'a offert assez jeune
+00:47:57 - 00:47:59:  un disque dur de 1 Tera.
+00:47:59 - 00:48:01:  Un WD pardon.
+00:48:01 - 00:48:03:  Un SMD ?
+00:48:03 - 00:48:05:  Non.
+00:48:05 - 00:48:07:  La marque WD je crois.
+00:48:07 - 00:48:09:  Bref 1 Tera quoi.
+00:48:09 - 00:48:11:  Un USB classique.
+00:48:11 - 00:48:13:  Enfin c'était pas un SSD à l'époque.
+00:48:13 - 00:48:15:  C'était un HDD.
+00:48:15 - 00:48:17:  Mais là dessus,
+00:48:17 - 00:48:19:  et je l'ai encore ce disque dur.
+00:48:19 - 00:48:21:  J'ai toutes les séries.
+00:48:21 - 00:48:23:  Je pense que je dois avoir
+00:48:23 - 00:48:25:  une cinquantaine, voire une centaine de films encore dessus.
+00:48:25 - 00:48:27:  Énormément de livres.
+00:48:27 - 00:48:29:  Parce que je stocke tout le livre que je télécharge.
+00:48:29 - 00:48:31:  Donc en PDF ou en EPUB.
+00:48:31 - 00:48:33:  J'ai quasiment tout.
+00:48:33 - 00:48:35:  J'avais le côté où il y avait des trucs
+00:48:35 - 00:48:37:  pro.
+00:48:37 - 00:48:39:  Les trucs courts dont j'avais besoin.
+00:48:39 - 00:48:41:  Le reste de mon disque dur
+00:48:41 - 00:48:43:  en terme de consommation c'était
+00:48:43 - 00:48:45:  des DMG, des .exe, des jeux.
+00:48:45 - 00:48:47:  Beaucoup de logiciels.
+00:48:47 - 00:48:49:  Ah oui, c'est ça que j'ai oublié d'évoquer.
+00:48:49 - 00:48:51:  Mais il y a beaucoup de logiciels que j'ai craqué.
+00:48:51 - 00:48:53:  Type Photoshop,
+00:48:53 - 00:48:55:  Lightroom,
+00:48:55 - 00:48:57:  After Effect.
+00:48:57 - 00:48:59:  Alors que je n'ai jamais su l'utiliser.
+00:48:59 - 00:49:01:  Mais tous ces logiciels.
+00:49:01 - 00:49:03:  Cinema 4D, Sony Vegas.
+00:49:03 - 00:49:05:  Parce qu'entre potes on s'est dit
+00:49:05 - 00:49:07:  ça serait marrant de monter une chaîne Youtube ou Minecraft.
+00:49:07 - 00:49:09:  Donc avant de le laisser de montage comme ça.
+00:49:09 - 00:49:11:  J'avais des trucs aussi.
+00:49:11 - 00:49:13:  Ableton, des trucs comme ça.
+00:49:13 - 00:49:15:  C'est des logiciels qui valent 600€ quand même.
+00:49:15 - 00:49:17:  Ça même aujourd'hui.
+00:49:17 - 00:49:19:  Ça c'est un truc que j'avais téléchargé.
+00:49:19 - 00:49:21:  Et ça j'ai quasiment tout stocké sur mon disque dur encore aujourd'hui.
+00:49:21 - 00:49:23:  Pas sur un drive.
+00:49:23 - 00:49:25:  Tout dans mon disque dur.
+00:49:33 - 00:49:35:  Et du coup, est-ce que tu es le mec
+00:49:35 - 00:49:37:  qui stocke tout dans une grosse pile ?
+00:49:37 - 00:49:39:  Est-ce que tu classes tes trucs ?
+00:49:39 - 00:49:41:  C'était classé en mode
+00:49:41 - 00:49:43:  film, série,
+00:49:43 - 00:49:45:  logiciel.
+00:49:45 - 00:49:47:  Et après l'intérieur c'était le bordel.
+00:49:47 - 00:49:49:  Ah c'était un bordel sans nom.
+00:49:49 - 00:49:51:  Le nom des fichiers je ne les touche pas.
+00:49:51 - 00:49:53:  Donc c'est un truc, une fois sur deux
+00:49:53 - 00:49:55:  tu as marqué le nom du site.
+00:49:55 - 00:49:57:  PGP,
+00:49:57 - 00:49:59:  Pirate Bay,
+00:49:59 - 00:50:01:  .1, MP4.
+00:50:01 - 00:50:03:  Tu vois j'étais vraiment à l'inverse pour le coup.
+00:50:03 - 00:50:05:  D'accord.
+00:50:05 - 00:50:07:  J'ai un bureau, j'ai un énorme tiroir qui sort
+00:50:07 - 00:50:09:  de son bureau. Et dedans il y a 5 ou 6 disques.
+00:50:09 - 00:50:11:  Et je pense que si on les rebranche
+00:50:11 - 00:50:13:  on risque de tomber sur des trucs un peu cringe.
+00:50:13 - 00:50:15:  Mais surtout on risque de tomber sur des trucs
+00:50:15 - 00:50:17:  vachement bien rangés.
+00:50:17 - 00:50:19:  Très cringe mais vachement bien rangés.
+00:50:19 - 00:50:21:  Parce que j'étais vraiment en mode non mais ça c'est tel truc,
+00:50:21 - 00:50:23:  c'est tel machin. J'ai envie de pouvoir prendre
+00:50:23 - 00:50:25:  ce dossier, le foutre sur mon PC
+00:50:25 - 00:50:27:  pour avoir vraiment ces livres là.
+00:50:27 - 00:50:29:  Parce que je sais que c'est cette série que je veux lire
+00:50:29 - 00:50:31:  cet été. Ou ces films que je veux voir.
+00:50:31 - 00:50:33:  Et ça c'est ce que je fais aujourd'hui pour te dire.
+00:50:33 - 00:50:35:  Ah donc ça évolue avec le temps.
+00:50:35 - 00:50:37:  Voilà. En fait dans mon architecture
+00:50:37 - 00:50:39:  et dossier ça ressemble à ça aujourd'hui.
+00:50:39 - 00:50:41:  C'est mal trié mais en fait théoriquement
+00:50:41 - 00:50:43:  c'est pas le djinn décimal.
+00:50:43 - 00:50:45:  Je sais pas si tu vois ce que c'est.
+00:50:45 - 00:50:47:  Par exemple si tu prends
+00:50:47 - 00:50:49:  université, scolarité,
+00:50:49 - 00:50:51:  tout est trié, numéroté.
+00:50:51 - 00:50:53:  Avec des sous-fichiers à chaque fois.
+00:50:53 - 00:50:55:  Sauf lui.
+00:50:55 - 00:50:57:  Là où il y a beaucoup plus de structures.
+00:50:57 - 00:50:59:  Ça c'est pour mes dossiers,
+00:50:59 - 00:51:01:  tous mes dossiers aujourd'hui.
+00:51:01 - 00:51:03:  Mais à l'époque,
+00:51:03 - 00:51:05:  c'est tout mon administratif etc.
+00:51:05 - 00:51:07:  Tout est rangé bien dans l'ordre.
+00:51:07 - 00:51:09:  Numéroté.
+00:51:09 - 00:51:11:  Le côté pratique de savoir faire du Python et du Bash
+00:51:11 - 00:51:13:  c'est que ça c'est automatique quasiment.
+00:51:13 - 00:51:15:  Ça va à la vitesse de la lumière, c'est génial.
+00:51:15 - 00:51:17:  Ça c'est aujourd'hui, c'est le cas.
+00:51:17 - 00:51:19:  Mais à l'époque c'était vraiment
+00:51:19 - 00:51:21:  j'avais un dossier perso,
+00:51:21 - 00:51:23:  un dossier école.
+00:51:23 - 00:51:25:  T'avais deux sous-dossiers à tout casser
+00:51:25 - 00:51:27:  et le reste c'était un globi boulga.
+00:51:27 - 00:51:29:  Voilà.
+00:51:29 - 00:51:31:  D'accord.
+00:51:31 - 00:51:33:  Et du coup
+00:51:33 - 00:51:35:  tu avais fait un effet de serveur
+00:51:35 - 00:51:37:  pour tes potes, c'était plus de la remise en emprunt.
+00:51:37 - 00:51:39:  Ouais, toujours ouais.
+00:51:39 - 00:51:41:  Et du coup le projet d'IPTV avec ton frère,
+00:51:41 - 00:51:43:  si j'ai bien compris.
+00:51:43 - 00:51:45:  C'est un truc ensemble ou c'est juste...
+00:51:45 - 00:51:47:  Non c'est lui qui nous mettra à disposition.
+00:51:47 - 00:51:49:  D'accord.
+00:51:51 - 00:51:53:  C'est à peu près tout ce que j'avais à te poser
+00:51:53 - 00:51:55:  comme question.
+00:51:55 - 00:51:57:  Je sais pas si t'as envie de rajouter quelque chose.
+00:51:57 - 00:51:59:  Je reprends ce que tu m'avais donné pour voir.
+00:52:03 - 00:52:05:  Hum...
+00:52:09 - 00:52:11:  Ouais, non je crois que c'est à peu près tout.
+00:52:11 - 00:52:13:  Ouais.
+00:52:13 - 00:52:15:  Non je vois pas d'autres choses.
+00:52:15 - 00:52:17:  Je crois que non.
+00:52:17 - 00:52:19:  Je crois que j'ai tout dit.
+00:52:19 - 00:52:21:  Du moins tout ce qui était important.
+00:52:21 - 00:52:23:  Je vois rien que j'avais oublié.
+00:52:23 - 00:52:25:  Mais...
+00:52:27 - 00:52:29:  C'est bon mais tu peux arrêter là.
+00:52:29 - 00:52:31:  Non je réfléchis mais je crois même en terme d'image
+00:52:31 - 00:52:33:  c'est déjà pas mal.
+00:52:33 - 00:52:35:  J'ai pas mal.
+00:52:35 - 00:52:37:  52 minutes.
